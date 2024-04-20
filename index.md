@@ -3,7 +3,7 @@ layout: default
 ---
 # Welcome to our research
 
-Welcome to our research on applying **generative artificial intelligence (GAI)** in intelligent networks. Two core goals of these efforts are to explore ** how intelligent networks can support various artificial intelligence-generated content (AIGC) services**, and how **generative AI can enhance network performance **. In response to the above goals, our research is mainly divided into the following three main topics, i.e., Diffusion Reinforcement Learning, Large Language Models, and Diffusion Graph Generation. In addition, our research also includes Semantic Communication, Resource Allocation, Integrated Sensing and Communication (ISAC), and Metaverse applications integrated into the GAI.
+Welcome to our research on applying **generative artificial intelligence (GAI)** in intelligent networks. Two core goals of these efforts are to explore **how intelligent networks can support various artificial intelligence-generated content (AIGC) services**, and **how generative AI can enhance network performance**. In response to the above goals, our research is mainly divided into the following three main topics, i.e., Diffusion Reinforcement Learning, Large Language Models, and Diffusion Graph Generation. In addition, our research also includes Semantic Communication, Resource Allocation, Integrated Sensing and Communication (ISAC), and Metaverse applications integrated into the GAI.
 
 
 
