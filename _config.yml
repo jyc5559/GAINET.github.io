@@ -1,8 +1,5 @@
 title: Generative AI for Intelligent Networks
-description: |
-  <p align="center">Computer Networks and Communication Lab @ NTU<br>
-  <a href="https://personal.ntu.edu.sg/dniyato/">DLab.</a></p>
-show_downloads: False
+description: Computer Networks and Communication Lab @ NTU
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-cayman
