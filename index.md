@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# Major topics
 <p align="center">
   <a href="https://hongyangdu.github.io/DLab/" style="display:inline-block; margin-right:10px; width:30%;">
     <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
@@ -22,15 +23,7 @@ layout: default
 
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
 
 # Header 1
 
