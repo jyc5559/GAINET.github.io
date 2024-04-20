@@ -2,6 +2,25 @@
 layout: default
 ---
 
+<p align="center">
+  <a href="https://链接1.com">
+    <img src="https://图片1-url.jpg" alt="图片1描述" width="30%">
+    <br>链接文本1
+  </a>
+  <a href="https://链接2.com">
+    <img src="https://图片2-url.jpg" alt="图片2描述" width="30%">
+    <br>链接文本2
+  </a>
+  <a href="https://链接3.com">
+    <img src="https://图片3-url.jpg" alt="图片3描述" width="30%">
+    <br>链接文本3
+  </a>
+</p>
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
