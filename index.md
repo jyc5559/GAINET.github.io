@@ -26,6 +26,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </p>
 
 
-
+# click
+[Link to another page](./another-page.html).
 
 
