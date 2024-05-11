@@ -192,25 +192,26 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <div class="member-container">
   <!-- 第一位成员 -->
   <div class="member">
-    <img src="path_to_image3.jpg" alt="Member 3">
-    <div>Member 3 Name</div>
+    <img src="path_to_image3.jpg" alt="Member 1">
+    <div>Member 1 Name</div>
   </div>
   <!-- 第二位成员 -->
   <div class="member">
-    <img src="path_to_image4.jpg" alt="Member 4">
-    <div>Member 4 Name</div>
+    <img src="path_to_image4.jpg" alt="Member 2">
+    <div>Member 2 Name</div>
   </div>
   <!-- 第三位成员 -->
   <div class="member">
-    <img src="path_to_image5.jpg" alt="Member 5">
-    <div>Member 5 Name</div>
+    <img src="path_to_image5.jpg" alt="Member 3">
+    <div>Member 3 Name</div>
   </div>
   <!-- 第四位成员 -->
   <div class="member">
-    <img src="path_to_image6.jpg" alt="Member 6">
-    <div>Member 6 Name</div>
+    <img src="path_to_image6.jpg" alt="Member 4">
+    <div>Member 4 Name</div>
   </div>
 </div>
+
 
 
 
