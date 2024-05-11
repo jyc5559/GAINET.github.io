@@ -95,6 +95,83 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </p>
 
 
+# Update Publication
+<tr>
+<td><a href="https://alvinliu97.github.io/MOEGAI-metaverse/"><img class="responsive-img" style="vertical-align:middle" src="accessories/MOE.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Fusion of Mixture of Experts and Generative Artificial Intelligence in Mobile Edge Metaverse</b>
+<br> Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Shiwen Mao, Dong In Kim<br>
+<em>Under Review</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper explores the potential of mixture of experts with generative AI, focusing on mobile edge Metaverse.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/abs/2404.03321">Paper</a>|
+<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
+	<a href="https://alvinliu97.github.io/MOEGAI-metaverse/">Code</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://zhewang77.github.io/GAIMIMO/"><img class="responsive-img" style="vertical-align:middle" src="accessories/zhe1.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision</b>
+<br>Zhe Wang, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, Khaled B. Letaief<br>
+<em>Under Review</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper studies the generative AI agent for next-generation MIMO design.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2404.08878.pdf">Paper</a>|
+<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
+<a href="https://zhewang77.github.io/GAIMIMO/">Code</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+
+<tr>
+<td><a href="https://limedire.github.io/GAI-Game/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaigame.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Generative AI for Game Theory-based Mobile Networking</b>
+<br>Long He, Geng Sun, Dusit Niyato, Hongyang Du, Fang Mei, Jiawen Kang, Mérouane Debbah, Zhu Han<br>
+<em>Under Review</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper explores the combination of LLM with game theory, focusing on mobile network optimization.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/abs/2404.09699">Paper</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://hongyangdu.github.io/Net4MoE/"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcmoe.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks</b>
+<br>Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Khaled B. Letaief<br>
+<em>Under Review</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposes mobile edge networks supported MoE-based GAI.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2402.06942.pdf">Paper</a> |
+<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
+<a href="https://hongyangdu.github.io/Net4MoE/">Code</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Generative AI for Advanced UAV Networking</b>
+<br>Geng Sun, Wenwen Xie, Dusit Niyato, Hongyang Du, Jiawen Kang, Jing Wu, Sumei Sun, Ping Zhang<br>
+<em>Under Review</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposed a framework for UAV networking, which augments with RAG and generative diffusion model.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2404.10556.pdf">Paper</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+
+
+
+
 # click
 [Link to another page](./another-page.html).
 
