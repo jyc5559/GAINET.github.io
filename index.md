@@ -12,7 +12,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <b>Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization</b>
 <br>Hongyang Du, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, Dong In Kim<br>
 <em>IEEE COMST </em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,700,20);">The first tutorial paper to explain various applications of diffusion models and coding examples.</b> </em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The first tutorial paper to explain various applications of diffusion models and coding examples.</b> </em> <br>
 <img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
 <a href="https://arxiv.org/pdf/2308.05384.pdf">Paper</a> |
 <img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
@@ -24,6 +24,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br><br> 
 
 <tr>
 <td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -41,6 +42,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br><br> 
 
 <tr>
 <td><a href="https://hongyangdu.github.io/SemSharing/"><img class="responsive-img" style="vertical-align:middle" src="accessories/duincen.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -56,6 +58,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br><br> 
 
 <tr>
 <td><a href="https://arxiv.org/abs/2310.01036"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcisac.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -110,6 +113,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br><br> 
 
 <tr>
 <td><a href="https://zhewang77.github.io/GAIMIMO/"><img class="responsive-img" style="vertical-align:middle" src="accessories/zhe1.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -125,7 +129,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br><br> 
 
 <tr>
 <td><a href="https://limedire.github.io/GAI-Game/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaigame.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -139,6 +143,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br><br> 
 
 <tr>
 <td><a href="https://hongyangdu.github.io/Net4MoE/"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcmoe.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -154,6 +159,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br><br> 
 
 <tr>
 <td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
