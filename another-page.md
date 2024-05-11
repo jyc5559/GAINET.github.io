@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
+title: Diffusion Reinforcement Learning
 description: This is just another page
 ---
 
-## Welcome to another page
+## Welcome to Diffusion Reinforcement Learning
 
 _yay_
 
