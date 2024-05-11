@@ -126,7 +126,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br style="margin-top: 5px; margin-bottom: 5px;">
+<br style="margin-top: 0px; margin-bottom: 0px;">
 
 <tr>
 <td><a href="https://limedire.github.io/GAI-Game/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaigame.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -140,8 +140,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br style="margin-top: 5px; margin-bottom: 5px;">
-
+<br style="margin-top: 0px; margin-bottom: 0px;">
 <tr>
 <td><a href="https://hongyangdu.github.io/Net4MoE/"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcmoe.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 <td>
@@ -156,8 +155,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br style="margin-top: 5px; margin-bottom: 5px;">
-
+<br style="margin-top: 0px; margin-bottom: 0px;">
 <tr>
 <td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 <td>
@@ -171,7 +169,9 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </td>
 </tr>
 
-# Group Member
+# Group Members
+
+
 
 
 # click
