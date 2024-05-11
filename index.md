@@ -12,7 +12,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <b>Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization</b>
 <br>Hongyang Du, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, Dong In Kim<br>
 <em>IEEE COMST </em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(245,50,190);">The first tutorial paper to explain various applications of diffusion models and coding examples.</b> </em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,700,20);">The first tutorial paper to explain various applications of diffusion models and coding examples.</b> </em> <br>
 <img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
 <a href="https://arxiv.org/pdf/2308.05384.pdf">Paper</a> |
 <img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
@@ -24,6 +24,57 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+
+<tr>
+<td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Generative AI for Space-Air-Ground Integrated Networks (SAGIN)</b>
+<br>Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Ping Zhang, Dong In Kim<br>
+<em>IEEE Wireless Communications Magazine</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);"> This paper explores an integration of generative AI in SAGIN, focusing on potential applications and case study.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2311.06523.pdf">Paper</a> |
+<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.youtube.com/watch?v=cQ2vA4rOHME">YouTube</a> |
+<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.bilibili.com/video/BV1fT4y1s7Eq/?spm_id_from=333.337.search-card.all.click">Bilibili</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://hongyangdu.github.io/SemSharing/"><img class="responsive-img" style="vertical-align:middle" src="accessories/duincen.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing</b>
+<br>Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim<br>
+<em>IEEE Journal on Selected Areas in Communications</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposes a contract theoretic AI-generated incentive mechanism that generates the optimal contract design.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2303.01896.pdf">Paper</a> |
+<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
+<a href="https://hongyangdu.github.io/SemSharing/">Code</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://arxiv.org/abs/2310.01036"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcisac.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective</b>
+<br>Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang Cui, Xuemin Shen, Ping Zhang<br>
+<em>IEEE Wireless Communications Magazine</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper showcases the use of generative AI in integrated sensing and communications, especially from physical layer.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2310.01036.pdf">Paper</a> |
+<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.youtube.com/watch?v=ZqSmgw0XOXo&ab_channel=DurAIn-Tech">YouTube</a> |
+<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.bilibili.com/video/BV1v84y1m7kn/?spm_id_from=333.999.0.0">Bilibili</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+
 
 
 
