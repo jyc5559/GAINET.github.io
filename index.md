@@ -78,9 +78,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </tr>
 
 
-
-
-
 # Main topics
 <p align="center">
   <a href="https://hongyangdu.github.io/DLab/" style="display:inline-block; margin-right:10px; width:30%;">
@@ -113,7 +110,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br><br> 
+<br style="margin-top: 5px; margin-bottom: 5px;">
 
 <tr>
 <td><a href="https://zhewang77.github.io/GAIMIMO/"><img class="responsive-img" style="vertical-align:middle" src="accessories/zhe1.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -129,7 +126,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br><br> 
+<br style="margin-top: 5px; margin-bottom: 5px;">
 
 <tr>
 <td><a href="https://limedire.github.io/GAI-Game/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaigame.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -143,7 +140,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br><br> 
+<br style="margin-top: 5px; margin-bottom: 5px;">
 
 <tr>
 <td><a href="https://hongyangdu.github.io/Net4MoE/"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcmoe.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -159,7 +156,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br><br> 
+<br style="margin-top: 5px; margin-bottom: 5px;">
 
 <tr>
 <td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -174,8 +171,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </td>
 </tr>
 
-
-
+# Group Member
 
 
 # click
