@@ -24,7 +24,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 0; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
