@@ -89,7 +89,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 [Link to Diffusion Reinforcement Learning](./another-page.html).
 
 <p align="center">
-  <a href="https://hongyangdu.github.io/DLab/" style="display:inline-block; margin-right:10px; width:30%;">
+  <a href="./another-page.html" style="display:inline-block; margin-right:10px; width:30%;">
     <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
     <br>Diffusion Reinforcement Learning
   </a>
