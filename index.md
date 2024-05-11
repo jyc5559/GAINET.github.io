@@ -24,7 +24,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-<br style="margin-top: 0; margin-bottom: 0;">
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -42,7 +42,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://hongyangdu.github.io/SemSharing/"><img class="responsive-img" style="vertical-align:middle" src="accessories/duincen.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -58,7 +58,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2310.01036"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcisac.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
