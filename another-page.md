@@ -9,30 +9,25 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 
 ## Related Publication
 <style>
-    .content-wrapper {
-        margin-left: 100px;
+    .flex-container {
+        display: flex; /* 启用 flex 布局 */
+        align-items: center; /* 垂直居中对齐 */
+        margin-bottom: 20px; /* 容器之间的间隔 */
     }
-    td, th {
-        padding: 8px;
-        border-bottom: 1px solid #ddd;
+    .flex-container img {
+        flex-shrink: 0; /* 防止图片缩放 */
+        margin-right: 20px; /* 图片和文字之间的间隔 */
     }
-    img.responsive-img {
-        float: left;  /* 使图片浮动到左侧 */
-        margin-right: 15px; /* 在图片和文字之间添加间隙 */
-        width: 50%; /* 设置图片宽度，可以根据实际需要调整 */
-        max-width: 100%;
-        height: auto;
+    .text-content {
+        flex-grow: 1; /* 文本内容占据剩余空间 */
     }
-    /* 响应式设计：当屏幕尺寸小于600px时，简化布局 */
     @media screen and (max-width: 600px) {
-        .content-wrapper {
-            margin-left: 10px;
+        .flex-container {
+            flex-direction: column; /* 在小屏幕上将布局改为垂直 */
         }
-        .responsive-img {
-            width: 100%; /* 在小屏幕上让图片占满整个宽度 */
-        }
-        td {
-            display: block; /* 单元格表现为块元素 */
+        .flex-container img {
+            margin-bottom: 10px; /* 图片和文字之间的垂直间隔 */
+            width: 100%; /* 图片宽度为100% */
         }
     }
 </style>
