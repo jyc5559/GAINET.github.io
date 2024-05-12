@@ -251,7 +251,8 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     display: flex; /* Using flex to align the image and text */
     flex-direction: column; /* Stacks the content vertically */
     align-items: center; /* Centers the content horizontally */
-    justify-content: space-around; /* Evenly distributes spacing of items along the column */
+    justify-content: space-between; /* Maximizes space between items and aligns them more cleanly */
+    min-height: 320px; /* Ensures all boxes are the same height */
   }
 
   .info-box img {
@@ -259,26 +260,28 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     height: auto; /* Keeps the image's aspect ratio intact */
   }
 
-  /* Specific adjustment for the first box to align content lower */
-  .info-box:first-child {
-    justify-content: center; /* Adjusts content to be centered vertically */
+  .info-title {
+    margin-top: auto; /* Pushes the title to the bottom of the flex container */
+    width: 100%; /* Ensures the title width matches the box width */
+    text-align: center; /* Centers the title text */
+    padding: 10px 0; /* Adds padding above and below the text */
   }
 </style>
 
 <div class="info-container">
   <a href="./another-page.html" class="info-box">
     <img src="./DRL.png" alt="Diffusion Reinforcement Learning">
-    <br>Diffusion Reinforcement Learning
+    <div class="info-title">Diffusion Reinforcement Learning</div>
   </a>
 
   <a href="./another-page2.html" class="info-box">
     <img src="./LLM.png" alt="Large Language Models">
-    <br>Interactive AI Agent
+    <div class="info-title">Interactive AI Agent</div>
   </a>
 
   <a href="./another-page3.html" class="info-box">
     <img src="./graph.png" alt="Diffusion Graph Generation">
-    <br>Resource Allocation
+    <div class="info-title">Resource Allocation</div>
   </a>
 </div>
 
