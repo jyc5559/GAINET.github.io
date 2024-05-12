@@ -9,29 +9,45 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 
 ## Related Publication
 <style>
-  .publication-container {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 20px;
-  }
-  .publication-image img {
-    width: 200px;  /* Set width */
-    height: 200px; /* Set height */
-    object-fit: cover; /* Ensure the image covers the set dimensions */
-    border: 1px solid #ccc; /* Optional border */
-  }
-  .publication-details {
-    flex-grow: 1;
-    margin-left: 20px; /* Add some space between the image and text */
-  }
-  .publication-links img {
-    vertical-align: middle;
-    margin-right: 5px;
-  }
-  .publication-title {
-    color: rgb(100,70,200);
-  }
+	.content-wrapper {
+	margin-left: 100px;
+	}
+	td, th {
+	padding: 8px;
+	border-bottom: 1px solid #ddd;
+	}
+	img.responsive-img {
+	max-width: 100%;
+	height: auto;
+	}
+	
+	/* 响应式设计：当屏幕尺寸小于600px时，应用这些样式 */
+	@media screen and (max-width: 600px) {
+	.content-wrapper {
+	margin-left: 10px;
+	}
+	.responsive-img {
+	float: left; /* 使图片浮动，使得文字可以环绕图片 */
+	margin-right: 15px; /* 在图片和文字之间添加一些间隙 */
+	width: 50%; /* 设置图片宽度为容器宽度的50%，根据需要调整 */
+	}
+	td {
+	display: block; /* 使单元格表现得像块元素，以便图片和文字可以正确环绕 */
+	}
+	}
 </style>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+<h1>The Age of Generative AI</h1>
+
+<hr>
+
+<h2>Representative Publications</h2>
+
+<table border="0" cellpadding="3" cellspacing="10">
 
 
 <div class="publication-container">
