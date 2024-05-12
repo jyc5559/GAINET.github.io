@@ -297,7 +297,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       Jiacheng Wang
     </td>
     <td align="center">
-      <img src="./lyq.jpg" alt="Hongyang Du" width="200" height="220"><br>
+      <img src="./lyq.png" alt="Hongyang Du" width="200" height="220"><br>
       Yinqiu Liu
     </td>
   </tr>
