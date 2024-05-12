@@ -173,16 +173,16 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <table>
   <tr>
     <td align="center">
-      <img src="./dhy.jpg" alt="Hongyang Du" width="100" height="100"><br>
-      Name1
+      <img src="./dhy.jpg" alt="Hongyang Du" width="300" height="300"><br>
+      Hongyang Du
     </td>
     <td align="center">
-      <img src="./wjc.jpg" alt="Jiacheng Wang" width="100" height="100"><br>
-      Name2
+      <img src="./wjc.jpg" alt="Jiacheng Wang" width="300" height="300"><br>
+      Jiacheng Wang
     </td>
     <td align="center">
-      <img src="./cjy.jpg" alt="Jingyang Cao" width="100" height="100"><br>
-      Name3
+      <img src="./cjy.jpg" alt="Jingyang Cao" width="300" height="300"><br>
+      Jingyang Cao
     </td>
   </tr>
   <tr>
