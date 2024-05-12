@@ -22,6 +22,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://zhewang77.github.io/GAIMIMO/"><img class="responsive-img" style="vertical-align:middle" src="accessories/zhe1.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -37,6 +38,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://limedire.github.io/GAI-Game/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaigame.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -50,6 +52,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -63,6 +66,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://rickyzang.github.io/GIAI/"><img class="responsive-img" style="vertical-align:middle" src="accessories/rciai.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -78,6 +82,8 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
+
 
 <tr>
 <td><a href="https://arxiv.org/abs/2308.04942"><img class="responsive-img" style="vertical-align:middle" src="accessories/guangyuansem.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -95,6 +101,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2402.13553"><img class="responsive-img" style="vertical-align:middle" src="accessories/cys.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -108,6 +115,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -125,6 +133,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://hongyangdu.github.io/SemSharing/"><img class="responsive-img" style="vertical-align:middle" src="accessories/duincen.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -140,7 +149,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2310.01036"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcisac.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -158,7 +167,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2303.14624"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcgm.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -176,7 +185,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2304.11098"><img class="responsive-img" style="vertical-align:middle" src="accessories/rcv.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -194,7 +203,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2307.12115"><img class="responsive-img" style="vertical-align:middle" src="accessories/heal.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -212,15 +221,7 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
-
-
-
-
-
-
-
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 
 [back](./)
