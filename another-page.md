@@ -33,6 +33,20 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   .publication-title {
     color: rgb(100,70,200);
   }
+
+  /* 响应式设计：调整小屏幕上的布局 */
+  @media screen and (max-width: 600px) {
+    .publication-container {
+      flex-direction: column; /* 在小屏幕上使内容垂直堆叠 */
+    }
+    .publication-image {
+      max-width: 100%; /* 小屏幕上让图片宽度为100% */
+      margin-bottom: 10px; /* 在图片和详情之间添加间隔 */
+    }
+    .publication-links img {
+      width: 50%; /* 调整小屏幕上链接图片的宽度 */
+    }
+  }
 </style>
 
 
