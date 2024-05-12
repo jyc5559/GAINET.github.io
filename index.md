@@ -324,7 +324,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </tr>
     <tr>
     <td align="center">
-      <img src="./WZ.png" alt="Hongyang Du" width="200" height="220"><br>
+      <img src="./WZ.jpg" alt="Hongyang Du" width="200" height="220"><br>
       Zhe Wang
     </td>
     </td>
