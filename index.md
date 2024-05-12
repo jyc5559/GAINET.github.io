@@ -158,6 +158,38 @@ Resource Allocation: Resource Allocation involves distributing available resourc
   </a>
 </p>
 
+# Main Topics
+<p align="center">
+  <table style="width:100%; table-layout: fixed;">
+    <tr>
+      <td align="center">
+        <a href="./another-page.html">
+          <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:80%; border-radius:10px;">
+          <br>Diffusion Reinforcement Learning
+        </a>
+        <p>Diffusion Reinforcement Learning combines the ideas of diffusion processes with reinforcement learning to enhance agent decision-making in complex environments. This approach can help in achieving more stable and efficient learning dynamics.</p>
+      </td>
+      <td align="center">
+        <a href="./another-page2.html">
+          <img src="./LLM.png" alt="Interactive AI Agent" style="width:80%; border-radius:10px;">
+          <br>Interactive AI Agent
+        </a>
+        <p>Interactive AI Agents are designed to engage with users through dialogue, learning from interactions to improve their responses and assistance. These agents are commonly used in applications such as virtual customer support, personal assistants, and interactive gaming.</p>
+      </td>
+      <td align="center">
+        <a href="./another-page3.html">
+          <img src="./graph.png" alt="Resource Allocation" style="width:80%; border-radius:10px;">
+          <br>Resource Allocation
+        </a>
+        <p>Resource Allocation involves distributing available resources among various competing needs or processes in an optimal manner. It is crucial in fields like economics, computing, and logistics, ensuring that resources are used efficiently and effectively to meet specific objectives.</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
+
 
 # Update Publications
 <style>
