@@ -181,39 +181,84 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   <table style="width:100%; table-layout: fixed;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center;">
+        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 300px;">
           <a href="./another-page.html">
-            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:90%; height:200px; object-fit: cover;">
-            <div style="padding: 10px; text-align: center; width: 100%;">
-              <strong>Diffusion Reinforcement Learning</strong>
-            </div>
+            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:90%; height:200px; object-fit: contain;">
           </a>
+          <div style="padding: 10px; text-align: center; width: 100%;">
+            <strong>Diffusion Reinforcement Learning</strong>
+          </div>
         </div>
       </td>
       <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center;">
+        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 300px;">
           <a href="./another-page2.html">
-            <img src="./LLM.png" alt="Interactive AI Agent" style="width:90%; height:200px; object-fit: cover;">
-            <div style="padding: 10px; text-align: center; width: 100%;">
-              <strong>Interactive AI Agent</strong>
-            </div>
+            <img src="./LLM.png" alt="Interactive AI Agent" style="width:90%; height:200px; object-fit: contain;">
           </a>
+          <div style="padding: 10px; text-align: center; width: 100%;">
+            <strong>Interactive AI Agent</strong>
+          </div>
         </div>
       </td>
       <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center;">
+        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 300px;">
           <a href="./another-page3.html">
-            <img src="./graph.png" alt="Resource Allocation" style="width:90%; height:200px; object-fit: cover;">
-            <div style="padding: 10px; text-align: center; width: 100%;">
-              <strong>Resource Allocation</strong>
-            </div>
+            <img src="./graph.png" alt="Resource Allocation" style="width:90%; height:200px; object-fit: contain;">
           </a>
+          <div style="padding: 10px; text-align: center; width: 100%;">
+            <strong>Resource Allocation</strong>
+          </div>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
+# Main topics
+<p align="center">
+  <a href="./another-page.html" style="display:inline-block; margin-right:10px; width:30%;">
+    <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
+    <br>Diffusion Reinforcement Learning
+  </a>
+
+  <a href="./another-page2.html" style="display:inline-block; margin-right:10px; width:30%;">
+    <img src="./LLM.png" alt="Large Language Models" style="width:100%;">
+    <br>Interactive AI Agent
+  </a>
+
+  <a href="./another-page3.html" style="display:inline-block; width:30%;">
+    <img src="./graph.png" alt="Diffusion Graph Generation" style="width:100%;">
+    <br>Resource Allocation
+  </a>
+</p>
+
+# Main Topics
+
+<style>
+  .info-box {
+    border: 1px solid #ccc; /* Gray border for the boxes */
+    padding: 10px; /* Padding around the content inside the boxes */
+    box-shadow: 0px 0px 10px #ccc; /* Optional: Adds a subtle shadow around the boxes */
+    margin-bottom: 20px; /* Space between the boxes and any content below */
+  }
+</style>
+
+<p align="center">
+  <a href="./another-page.html" style="display:inline-block; margin-right:10px; width:30%;" class="info-box">
+    <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
+    <br>Diffusion Reinforcement Learning
+  </a>
+
+  <a href="./another-page2.html" style="display:inline-block; margin-right:10px; width:30%;" class="info-box">
+    <img src="./LLM.png" alt="Large Language Models" style="width:100%;">
+    <br>Interactive AI Agent
+  </a>
+
+  <a href="./another-page3.html" style="display:inline-block; width:30%;" class="info-box">
+    <img src="./graph.png" alt="Diffusion Graph Generation" style="width:100%;">
+    <br>Resource Allocation
+  </a>
+</p>
 
 
 # Update Publications
