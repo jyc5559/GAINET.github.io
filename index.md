@@ -159,85 +159,87 @@ Resource Allocation: Resource Allocation involves distributing available resourc
 </p>
 
 # Main Topics
-<p align="center">
+
+<div align="center">
   <table style="width:100%; table-layout: fixed;">
     <tr>
-      <td align="center">
-        <a href="./another-page.html">
-          <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:80%; border-radius:10px;">
-          <br>Diffusion Reinforcement Learning
-        </a>
-        <p>Diffusion Reinforcement Learning combines the ideas of diffusion processes with reinforcement learning to enhance agent decision-making in complex environments. This approach can help in achieving more stable and efficient learning dynamics.</p>
+      <td align="center" style="padding: 10px;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+          <a href="./another-page.html">
+            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%; display: block;">
+            <div style="padding: 10px; text-align: justify;">
+              <strong>Diffusion Reinforcement Learning</strong>
+              <p>Diffusion Reinforcement Learning combines the ideas of diffusion processes with reinforcement learning to enhance agent decision-making in complex environments. This approach can help in achieving more stable and efficient learning dynamics.</p>
+            </div>
+          </a>
+        </div>
       </td>
-      <td align="center">
-        <a href="./another-page2.html">
-          <img src="./LLM.png" alt="Interactive AI Agent" style="width:80%; border-radius:10px;">
-          <br>Interactive AI Agent
-        </a>
-        <p>Interactive AI Agents are designed to engage with users through dialogue, learning from interactions to improve their responses and assistance. These agents are commonly used in applications such as virtual customer support, personal assistants, and interactive gaming.</p>
+      <td align="center" style="padding: 10px;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+          <a href="./another-page2.html">
+            <img src="./LLM.png" alt="Interactive AI Agent" style="width:100%; display: block;">
+            <div style="padding: 10px; text-align: justify;">
+              <strong>Interactive AI Agent</strong>
+              <p>Interactive AI Agents are designed to engage with users through dialogue, learning from interactions to improve their responses and assistance. These agents are commonly used in applications such as virtual customer support, personal assistants, and interactive gaming.</p>
+            </div>
+          </a>
+        </div>
       </td>
-      <td align="center">
-        <a href="./another-page3.html">
-          <img src="./graph.png" alt="Resource Allocation" style="width:80%; border-radius:10px;">
-          <br>Resource Allocation
-        </a>
-        <p>Resource Allocation involves distributing available resources among various competing needs or processes in an optimal manner. It is crucial in fields like economics, computing, and logistics, ensuring that resources are used efficiently and effectively to meet specific objectives.</p>
+      <td align="center" style="padding: 10px;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+          <a href="./another-page3.html">
+            <img src="./graph.png" alt="Resource Allocation" style="width:100%; display: block;">
+            <div style="padding: 10px; text-align: justify;">
+              <strong>Resource Allocation</strong>
+              <p>Resource Allocation involves distributing available resources among various competing needs or processes in an optimal manner. It is crucial in fields like economics, computing, and logistics, ensuring that resources are used efficiently and effectively to meet specific objectives.</p>
+            </div>
+          </a>
+        </div>
       </td>
     </tr>
   </table>
-</p>
+</div>
 
-<style>
-  .info-block {
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    margin: 20px;
-    overflow: hidden;
-  }
 
-  .info-block img {
-    width: 100%;
-    height: auto;
-    border-bottom: 1px solid #ccc;
-  }
-
-  .info-block .content {
-    padding: 20px;
-    text-align: left;
-    background-color: #f9f9f9;
-  }
-
-  .info-block h2 {
-    color: #333;
-    font-size: 18px;
-  }
-
-  .info-block p {
-    color: #666;
-    font-size: 14px;
-    line-height: 1.6;
-  }
-
-  .info-block a {
-    display: block;
-    text-align: center;
-    background-color: #ffcc00;
-    color: #000;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 10px 0;
-    font-size: 16px;
-  }
-</style>
-
-<div class="info-block">
-  <img src="path_to_image.jpg" alt="Relevant Text">
-  <div class="content">
-    <h2>Main Topic</h2>
-    <p>Description of the main topic. This description can span multiple lines and provide detailed information on the subject.</p>
-    <a href="link_to_more_info.html">More Information</a>
-  </div>
+# Main Topics
+<div align="center">
+  <table style="width:100%; table-layout: fixed;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+          <a href="./another-page.html">
+            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%; display: block;">
+            <div style="padding: 10px; text-align: justify;">
+              <strong>Diffusion Reinforcement Learning</strong>
+              <p>Diffusion Reinforcement Learning combines the ideas of diffusion processes with reinforcement learning to enhance agent decision-making in complex environments. This approach can help in achieving more stable and efficient learning dynamics.</p>
+            </div>
+          </a>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+          <a href="./another-page2.html">
+            <img src="./LLM.png" alt="Interactive AI Agent" style="width:100%; display: block;">
+            <div style="padding: 10px; text-align: justify; background-color: #f0f0f0;">
+              <strong>Interactive AI Agent</strong>
+              <p>Interactive AI Agents are designed to engage with users through dialogue, learning from interactions to improve their responses and assistance. These agents are commonly used in applications such as virtual customer support, personal assistants, and interactive gaming.</p>
+            </div>
+          </a>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+          <a href="./another-page3.html">
+            <img src="./graph.png" alt="Resource Allocation" style="width:100%; display: block;">
+            <div style="padding: 10px; text-align: justify;">
+              <strong>Resource Allocation</strong>
+              <p>Resource Allocation involves distributing available resources among various competing needs or processes in an optimal manner. It is crucial in fields like economics, computing, and logistics, ensuring that resources are used efficiently and effectively to meet specific objectives.</p>
+            </div>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
