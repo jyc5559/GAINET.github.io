@@ -47,4 +47,75 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 </td>
 </tr>
 
+
+<tr>
+<td><a href="https://arxiv.org/abs/2303.13052"><img class="responsive-img" style="vertical-align:middle" src="accessories/dutmc.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Diffusion-based Reinforcement Learning for Edge-enabled AI-Generated Content Services</b>
+<br>Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Huawei Huang, and Shiwen Mao<br>
+<em>IEEE Transactions on Mobile Computing</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposes a diffusion model-based AI-generated optimal decision (AGOD) algorithm, which can generate the optimal ASP selection decisions.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2303.13052.pdf">Paper</a> |
+<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
+<a href="https://github.com/Lizonghang/AGOD">Code</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://arxiv.org/abs/2307.07146"><img class="responsive-img" style="vertical-align:middle" src="accessories/xuminfl.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Federated Learning-Empowered AI-Generated Content in Wireless Networks</b>
+<br>Xumin Huang, Peichun Li, Hongyang Du, Jiawen Kang, Dusit Niyato, Dong In Kim, Yuan Wu<br>
+<em>IEEE Network Magazine</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper presents the federated learning design to support AIGC with privacy preservation.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2307.07146.pdf">Paper</a> |
+<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.youtube.com/watch?v=1anrIJeyqtw">YouTube</a> |
+<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.bilibili.com/video/BV1GB4y1Z7Mr/?spm_id_from=333.999.0.0">Bilibili</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+
+<tr>
+<td><a href="https://arxiv.org/abs/2303.17114"><img class="responsive-img" style="vertical-align:middle" src="accessories/yqgm.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study</b>
+<br>Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Abbas Jamalipour<br>
+<em>IEEE Network Magazine</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper gives specific examples of generative AI to optimize wireless networks.</b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/pdf/2303.17114.pdf">Paper</a> |
+<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.youtube.com/watch?v=30gRmUZj9V4&ab_channel=DurAIn-Tech">YouTube</a> |
+<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.bilibili.com/video/BV1M8411174N/?vd_source=89dd8b52d1d8508a3722af991a8fa825">Bilibili</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+<tr>
+<td><a href="https://arxiv.org/abs/2303.13869"><img class="responsive-img" style="vertical-align:middle" src="accessories/yud.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+<td>
+<b>AI-Generated 6G Internet Design: A Diffusion Model-based Learning Approach</b>
+<br>Yudong Huang, Minrui Xu, Xinyuan Zhang, Dusit Niyato, Zehui Xiong, Shuo Wang, Tao Huang<br>
+<em>IEEE Network Magazine</em> <br>
+<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper introduces a concept of AI-Generated Network. </b> </em> <br>
+<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
+<a href="https://arxiv.org/abs/2303.13869">Paper</a> |
+<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.youtube.com/watch?v=WoEHUlADJbk">YouTube</a> |
+<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
+<a href="https://www.bilibili.com/video/BV1Aw411C7M2/?spm_id_from=333.999.0.0">Bilibili</a>
+&nbsp &nbsp &nbsp 
+</td>
+</tr>
+
+
+
+
 [back](./)
