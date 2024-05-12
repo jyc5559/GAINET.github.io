@@ -325,7 +325,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   <!-- 更多成员 -->
 </table>
 
-## Please contact us: xxx
 
 
 
