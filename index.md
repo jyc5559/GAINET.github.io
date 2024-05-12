@@ -287,6 +287,10 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 
 <table>
   <tr>
+    </td>
+    <td align="center">
+      <img src="./dusit.png" alt="Hongyang Du" width="200" height="220"><br>
+      <span style="color: blue;">Dusit Niyato</span>
     <td align="center">
       <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="220"><br>
       Hongyang Du
@@ -299,12 +303,12 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       <img src="./wjc.jpg" alt="Jingyang Cao" width="200" height="220"><br>
       Jiacheng Wang
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="./lyq.png" alt="Hongyang Du" width="200" height="220"><br>
       Yinqiu Liu
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="./lgy.jpg" alt="Name4" width="200" height="220"><br>
       Guangyuan Liu
@@ -316,10 +320,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <td align="center">
       <img src="./cjy.jpg" alt="Name6" width="200" height="220"><br>
       Jingyang Cao
-    </td>
-    <td align="center">
-      <img src="./WZ.jpg" alt="Hongyang Du" width="200" height="220"><br>
-      Zhe Wang
     </td>
   </tr>
   <!-- 更多成员 -->
