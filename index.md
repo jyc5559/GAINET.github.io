@@ -187,6 +187,58 @@ Resource Allocation: Resource Allocation involves distributing available resourc
   </table>
 </p>
 
+<style>
+  .info-block {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px;
+    overflow: hidden;
+  }
+
+  .info-block img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .info-block .content {
+    padding: 20px;
+    text-align: left;
+    background-color: #f9f9f9;
+  }
+
+  .info-block h2 {
+    color: #333;
+    font-size: 18px;
+  }
+
+  .info-block p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .info-block a {
+    display: block;
+    text-align: center;
+    background-color: #ffcc00;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 16px;
+  }
+</style>
+
+<div class="info-block">
+  <img src="path_to_image.jpg" alt="Relevant Text">
+  <div class="content">
+    <h2>Main Topic</h2>
+    <p>Description of the main topic. This description can span multiple lines and provide detailed information on the subject.</p>
+    <a href="link_to_more_info.html">More Information</a>
+  </div>
+</div>
 
 
 
