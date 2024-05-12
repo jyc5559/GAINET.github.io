@@ -184,6 +184,10 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       <img src="./wjc.jpg" alt="Jingyang Cao" width="200" height="250"><br>
       Jiacheng Wang
     </td>
+    <td align="center">
+      <img src="./lgy.jpg" alt="Name4" width="200" height="250"><br>
+      Guangyuan Liu
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -191,12 +195,16 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       Guangyuan Liu
     </td>
     <td align="center">
-      <img src="./dhy.jpg" alt="Name5" width="200" height="250"><br>
+      <img src="./zcy.jpg" alt="Name5" width="200" height="250"><br>
       Changyuan Zhao
     </td>
     <td align="center">
       <img src="./cjy.jpg" alt="Name6" width="200" height="250"><br>
       Jingyang Cao
+    </td>
+    <td align="center">
+      <img src="./lgy.jpg" alt="Name4" width="200" height="250"><br>
+      Guangyuan Liu
     </td>
   </tr>
   <!-- 更多成员 -->
