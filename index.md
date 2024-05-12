@@ -222,6 +222,44 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </table>
 </div>
 
+# Main Topics
+
+<div align="center">
+  <table style="width:100%; table-layout: fixed;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <div style="overflow: hidden;">
+          <a href="./another-page.html">
+            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:90%; height:auto; display: block; margin: auto;">
+            <div style="padding: 10px; text-align: center;">
+              <strong>Diffusion Reinforcement Learning</strong>
+            </div>
+          </a>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="overflow: hidden;">
+          <a href="./another-page2.html">
+            <img src="./LLM.png" alt="Interactive AI Agent" style="width:90%; height:auto; display: block; margin: auto;">
+            <div style="padding: 10px; text-align: center;">
+              <strong>Interactive AI Agent</strong>
+            </div>
+          </a>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="overflow: hidden;">
+          <a href="./another-page3.html">
+            <img src="./graph.png" alt="Resource Allocation" style="width:90%; height:auto; display: block; margin: auto;">
+            <div style="padding: 10px; text-align: center;">
+              <strong>Resource Allocation</strong>
+            </div>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
