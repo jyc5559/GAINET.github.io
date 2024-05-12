@@ -115,7 +115,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2307.07146">
-      <img class="responsive-img" src="accessories/xuminfl.png" style="width:200px; height:auto;" alt="">
+      <img class="responsive-img" src="accessories/xuminfl.png" style="width:150px; height:auto;" alt="">
     </a>
   </div>
   <div class="publication-details">
