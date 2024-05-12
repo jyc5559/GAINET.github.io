@@ -7,7 +7,7 @@ title: Diffusion Reinforcement Learning
 ## Welcome to Diffusion Reinforcement Learning
 Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that integrates the principles of diffusion processes with reinforcement learning algorithms. This hybrid method leverages the strength of diffusion models, which are adept at generating high-quality, continuous data representations, with the strategic decision-making capabilities of reinforcement learning. DRL is particularly effective in environments where the agent's actions can be seen as influencing or navigating through a continuous state space, allowing for more nuanced and precise control strategies. By combining these two methodologies, DRL enhances the agent’s ability to learn optimal policies in complex, dynamic environments, making it a powerful tool for tasks that require sophisticated, long-term planning and execution.
 
-## Related Publication
+## Representative Publications
 <style>
   .publication-container {
     display: flex;
