@@ -9,45 +9,56 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 
 ## Related Publication
 <style>
-	.content-wrapper {
-	margin-left: 100px;
-	}
-	td, th {
-	padding: 8px;
-	border-bottom: 1px solid #ddd;
-	}
-	img.responsive-img {
-	max-width: 100%;
-	height: auto;
-	}
-	
-	/* 响应式设计：当屏幕尺寸小于600px时，应用这些样式 */
-	@media screen and (max-width: 600px) {
-	.content-wrapper {
-	margin-left: 10px;
-	}
-	.responsive-img {
-	float: left; /* 使图片浮动，使得文字可以环绕图片 */
-	margin-right: 15px; /* 在图片和文字之间添加一些间隙 */
-	width: 50%; /* 设置图片宽度为容器宽度的50%，根据需要调整 */
-	}
-	td {
-	display: block; /* 使单元格表现得像块元素，以便图片和文字可以正确环绕 */
-	}
-	}
+  .publication-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  .publication-image img {
+    width: 200px;  /* Set width */
+    height: 200px; /* Set height */
+    object-fit: cover; /* Ensure the image covers the set dimensions */
+    border: 1px solid #ccc; /* Optional border */
+  }
+  .publication-details {
+    flex-grow: 1;
+    margin-left: 20px; /* Add some space between the image and text */
+  }
+  .publication-links img {
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  .publication-title {
+    color: rgb(100,70,200);
+  }
 </style>
-</head>
-<body>
 
-<div class="content-wrapper">
-
-<h1>The Age of Generative AI</h1>
-
-<hr>
-
-<h2>Representative Publications</h2>
-
-<table border="0" cellpadding="3" cellspacing="10">
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://hongyangdu.github.io/DistributedDiffusion/">
+      <img class="responsive-img" src="accessories/duuser.png" alt="">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content</b><br>
+    Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper introduces Reinforcement Learning With Large Language Models Interaction (RLLI), a user-centric Interactive AI technique, to optimize AIGC services.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2311.11094.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/DistributedDiffusion/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=Vva-skuHBC4&ab_channel=DurAIn-Tech%E6%B8%A1%E9%9B%A8%E7%A7%91%E6%8A%80">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1kC4y1w7mY/?spm_id_from=333.337.search-card.all.click&vd_source=7a1cccf64fe5f606a2b055b2b18fbfb9">Bilibili</a>
+    </div>
+  </div>
+</div>
 
 
 <div class="publication-container">
@@ -80,40 +91,13 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 
 <div class="publication-container">
   <div class="publication-image">
-    <a href="https://hongyangdu.github.io/DistributedDiffusion/">
-      <img class="responsive-img" src="accessories/duuser.png" style="width:200px; height:auto;" alt="">
-    </a>
-  </div>
-  <div class="publication-details">
-    <b>User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content</b><br>
-    Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim<br>
-    <em>Under Review</em><br>
-    <div class="publication-links">
-      <em>
-        <img src="accessories/gold_medal.png" width="15" alt=""> 
-        <b class="publication-title">This paper introduces Reinforcement Learning With Large Language Models Interaction (RLLI), a user-centric Interactive AI technique, to optimize AIGC services.</b>
-      </em><br>
-      <img src="accessories/pdf.jpg" width="12" alt=""> 
-      <a href="https://arxiv.org/pdf/2311.11094.pdf">Paper</a> |
-      <img src="accessories/github_icon.jpg" width="15" alt=""> 
-      <a href="https://hongyangdu.github.io/DistributedDiffusion/">Code</a> |
-      <img src="accessories/ytb.jpg" width="12" alt="">
-      <a href="https://www.youtube.com/watch?v=Vva-skuHBC4&ab_channel=DurAIn-Tech%E6%B8%A1%E9%9B%A8%E7%A7%91%E6%8A%80">YouTube</a> |
-      <img src="accessories/bili.jpg" width="12" alt="">
-      <a href="https://www.bilibili.com/video/BV1kC4y1w7mY/?spm_id_from=333.337.search-card.all.click&vd_source=7a1cccf64fe5f606a2b055b2b18fbfb9">Bilibili</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-container">
-  <div class="publication-image">
     <a href="https://arxiv.org/abs/2303.13052">
-      <img class="responsive-img" src="accessories/dutmc.png" style="width:200px; height:auto;" alt="">
+      <img class="responsive-img" src="accessories/dutmc.png" alt="">
     </a>
   </div>
   <div class="publication-details">
     <b>Diffusion-based Reinforcement Learning for Edge-enabled AI-Generated Content Services</b><br>
-    Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Huawei Huang, and Shiwen Mao<br>
+    Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Huawei Huang, Shiwen Mao<br>
     <em>IEEE Transactions on Mobile Computing</em><br>
     <div class="publication-links">
       <em>
@@ -128,11 +112,10 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2307.07146">
-      <img class="responsive-img" src="accessories/xuminfl.png" style="width:200px; height:auto;" alt="">
+      <img class="responsive-img" src="accessories/xuminfl.png" alt="">
     </a>
   </div>
   <div class="publication-details">
@@ -154,12 +137,10 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-
-
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2303.17114">
-      <img class="responsive-img" src="accessories/yqgm.png" style="width:200px; height:auto;" alt="">
+      <img class="responsive-img" src="accessories/yqgm.png" alt="">
     </a>
   </div>
   <div class="publication-details">
@@ -181,12 +162,35 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2303.17114">
+      <img class="responsive-img" src="accessories/yqgm.png" alt="">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study</b><br>
+    Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Abbas Jamalipour<br>
+    <em>IEEE Network Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper gives specific examples of generative AI to optimize wireless networks.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2303.17114.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=30gRmUZj9V4&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1M8411174N/?vd_source=89dd8b52d1d8508a3722af991a8fa825">Bilibili</a>
+    </div>
+  </div>
+</div>
 
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2303.13869">
-      <img class="responsive-img" src="accessories/yud.png" style="width:200px; height:auto;" alt="">
+      <img class="responsive-img" src="accessories/yud.png" alt="">
     </a>
   </div>
   <div class="publication-details">
@@ -207,6 +211,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
     </div>
   </div>
 </div>
+
 
 
 [back](./)
