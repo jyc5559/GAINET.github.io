@@ -27,7 +27,6 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 	margin-left: 10px;
 	}
 	.responsive-img {
-	float: left; /* 使图片浮动，使得文字可以环绕图片 */
 	margin-right: 15px; /* 在图片和文字之间添加一些间隙 */
 	width: 50%; /* 设置图片宽度为容器宽度的50%，根据需要调整 */
 	}
@@ -36,7 +35,6 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 	}
 	}
 </style>
-
 
 
 
