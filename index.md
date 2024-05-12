@@ -322,6 +322,13 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       Jingyang Cao
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="./WZ.png" alt="Hongyang Du" width="200" height="220"><br>
+      Zhe Wang
+    </td>
+    </td>
+  </tr>
   <!-- 更多成员 -->
 </table>
 
