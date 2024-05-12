@@ -57,7 +57,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-<!-- Publication 1 -->
+<!-- Publication 2 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://hongyangdu.github.io/DistributedDiffusion/">
@@ -85,7 +85,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-<!-- Publication 2 -->
+<!-- Publication 3 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2303.13052">
@@ -111,7 +111,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 
 
 
-<!-- Publication 3 -->
+<!-- Publication 4 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2307.07146">
@@ -129,6 +129,8 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
       </em><br>
       <img src="accessories/pdf.jpg" width="12" alt=""> 
       <a href="https://arxiv.org/pdf/2307.07146.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/DistributedDiffusion/">Code</a> |
       <img src="accessories/ytb.jpg" width="12" alt="">
       <a href="https://www.youtube.com/watch?v=1anrIJeyqtw">YouTube</a> |
       <img src="accessories/bili.jpg" width="12" alt="">
@@ -137,7 +139,8 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-<!-- Publication 4 -->
+
+<!-- Publication 5 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2303.17114">
@@ -155,6 +158,9 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
       </em><br>
       <img src="accessories/pdf.jpg" width="12" alt=""> 
       <a href="https://arxiv.org/pdf/2303.17114.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/DistributedDiffusion/">Code</a> |
+      
       <img src="accessories/ytb.jpg" width="12" alt="">
       <a href="https://www.youtube.com/watch?v=30gRmUZj9V4&ab_channel=DurAIn-Tech">YouTube</a> |
       <img src="accessories/bili.jpg" width="12" alt="">
@@ -163,7 +169,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   </div>
 </div>
 
-<!-- Publication 5 -->
+<!-- Publication 6-->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2303.13869">
@@ -181,6 +187,8 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
       </em><br>
       <img src="accessories/pdf.jpg" width="12" alt=""> 
       <a href="https://arxiv.org/abs/2303.13869">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/DistributedDiffusion/">Code</a> |
       <img src="accessories/ytb.jpg" width="12" alt="">
       <a href="https://www.youtube.com/watch?v=WoEHUlADJbk">YouTube</a> |
       <img src="accessories/bili.jpg" width="12" alt="">
