@@ -173,30 +173,30 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <table>
   <tr>
     <td align="center">
-      <img src="./dhy.jpg" alt="Hongyang Du" width="300" height="300"><br>
+      <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="200"><br>
       Hongyang Du
     </td>
     <td align="center">
-      <img src="./wjc.jpg" alt="Jiacheng Wang" width="300" height="300"><br>
-      Jiacheng Wang
+      <img src="./zrc.jpg" alt="Jiacheng Wang" width="200" height="200"><br>
+      Ruichen Zhang
     </td>
     <td align="center">
-      <img src="./cjy.jpg" alt="Jingyang Cao" width="300" height="300"><br>
-      Jingyang Cao
+      <img src="./wjc.jpg" alt="Jingyang Cao" width="200" height="200"><br>
+      Jiacheng Wang
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="path_to_image4.jpg" alt="Name4" width="100" height="100"><br>
-      Name4
+      <img src="./lgy.jpg" alt="Name4" width="200" height="200"><br>
+      Guangyuan Liu
     </td>
     <td align="center">
-      <img src="path_to_image5.jpg" alt="Name5" width="100" height="100"><br>
-      Name5
+      <img src="./dhy.jpg" alt="Name5" width="200" height="200"><br>
+      Yinqiu Liu
     </td>
     <td align="center">
-      <img src="path_to_image6.jpg" alt="Name6" width="100" height="100"><br>
-      Name6
+      <img src="./cjy.jpg" alt="Name6" width="200" height="200"><br>
+      Jingyang Cao
     </td>
   </tr>
   <!-- 更多成员 -->
