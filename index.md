@@ -88,7 +88,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <img src="./LLM.png" alt="Large Language Models" style="width:100%;">
     <br>Interactive AI Agent
   </a>
-  <a href="./another-page.html" style="display:inline-block; width:30%;">
+  <a href="./another-page3.html" style="display:inline-block; width:30%;">
     <img src="./graph.png" alt="Diffusion Graph Generation" style="width:100%;">
     <br>Resource Allocation
   </a>
