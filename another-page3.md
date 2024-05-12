@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Diffusion Reinforcement Learning
-description: This is just another page
+title: Resource Allocation
+
 ---
 
 ## Welcome to 2
