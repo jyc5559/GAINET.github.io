@@ -199,113 +199,160 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 </div>
 
 
+<!-- Publication 8 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2311.06523">
+      <img src="accessories/ruicehnsagin.png" alt="Generative AI for SAGIN">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Space-Air-Ground Integrated Networks (SAGIN)</b><br>
+    Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Ping Zhang, Dong In Kim<br>
+    <em>IEEE Wireless Communications Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper explores an integration of generative AI in SAGIN, focusing on potential applications and case study.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2311.06523.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=cQ2vA4rOHME">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1fT4y1s7Eq/?spm_id_from=333.337.search-card.all.click">Bilibili</a>
+    </div>
+  </div>
+</div>
 
+<!-- Publication 9 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://hongyangdu.github.io/SemSharing/">
+      <img src="accessories/duincen.png" alt="AI-Generated Incentive Mechanism">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing</b><br>
+    Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim<br>
+    <em>IEEE Journal on Selected Areas in Communications</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper proposes a contract theoretic AI-generated incentive mechanism that generates the optimal contract design.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2303.01896.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/SemSharing/">Code</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI for Space-Air-Ground Integrated Networks (SAGIN)</b>
-<br>Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Ping Zhang, Dong In Kim<br>
-<em>IEEE Wireless Communications Magazine</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);"> This paper explores an integration of generative AI in SAGIN, focusing on potential applications and case study.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2311.06523.pdf">Paper</a> |
-<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.youtube.com/watch?v=cQ2vA4rOHME">YouTube</a> |
-<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.bilibili.com/video/BV1fT4y1s7Eq/?spm_id_from=333.337.search-card.all.click">Bilibili</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 10 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2310.01036">
+      <img src="accessories/jcisac.png" alt="Generative AI for ISC">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective</b><br>
+    Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang Cui, Xuemin Shen, Ping Zhang<br>
+    <em>IEEE Wireless Communications Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper showcases the use of generative AI in integrated sensing and communications, especially from the physical layer.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2310.01036.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=ZqSmgw0XOXo&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1v84y1m7kn/?spm_id_from=333.999.0.0">Bilibili</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://hongyangdu.github.io/SemSharing/"><img class="responsive-img" style="vertical-align:middle" src="accessories/duincen.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing</b>
-<br>Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim<br>
-<em>IEEE Journal on Selected Areas in Communications</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposes a contract theoretic AI-generated incentive mechanism that generates the optimal contract design.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2303.01896.pdf">Paper</a> |
-<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
-<a href="https://hongyangdu.github.io/SemSharing/">Code</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 11 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2303.14624">
+      <img src="accessories/jcgm.png" alt="Guiding AI-Generated Digital Content">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Guiding AI-Generated Digital Content with Wireless Perception</b><br>
+    Jiacheng Wang, Hongyang Du, Dusit Niyato, Zehui Xiong, Jiawen Kang, Shiwen Mao, Xuemin (Sherman) Shen<br>
+    <em>IEEE Wireless Communications Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explains the use of wireless sensing data for input of AIGC applications to generate images and videos.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2303.14624.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=7Y2gqrz4ukI&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1F841117Nw/?spm_id_from=333.999.0.0">Bilibili</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://arxiv.org/abs/2310.01036"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcisac.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective</b>
-<br>Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang Cui, Xuemin Shen, Ping Zhang<br>
-<em>IEEE Wireless Communications Magazine</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper showcases the use of generative AI in integrated sensing and communications, especially from physical layer.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2310.01036.pdf">Paper</a> |
-<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.youtube.com/watch?v=ZqSmgw0XOXo&ab_channel=DurAIn-Tech">YouTube</a> |
-<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.bilibili.com/video/BV1v84y1m7kn/?spm_id_from=333.999.0.0">Bilibili</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 12 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2304.11098">
+      <img src="accessories/rcv.png" alt="Generative AI-enabled Vehicular Networks">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study</b><br>
+    Ruichen Zhang, Ke Xiong, Hongyang Du, Dusit Niyato, Jiawen Kang, Xuemin Shen, H. Vincent Poor<br>
+    <em>IEEE Network Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper summarizes and showcases how generative AI can be used in healthcare applications.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2304.11098.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=pRzbHGw-5dk&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1jN411n7ef/?spm_id_from=333.999.0.0">Bilibili</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://arxiv.org/abs/2303.14624"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcgm.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Guiding AI-Generated Digital Content with Wireless Perception</b>
-<br>Jiacheng Wang, Hongyang Du, Dusit Niyato, Zehui Xiong, Jiawen Kang, Shiwen Mao, Xuemin (Sherman) Shen<br>
-<em>IEEE Wireless Communications Magazine</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper explains the use of wireless sensing data for input of AIGC applications to generate images and videos.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2303.14624.pdf">Paper</a> |
-<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.youtube.com/watch?v=7Y2gqrz4ukI&ab_channel=DurAIn-Tech">YouTube</a> |
-<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.bilibili.com/video/BV1F841117Nw/?spm_id_from=333.999.0.0">Bilibili</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 13 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2307.12115">
+      <img src="accessories/heal.png" alt="A Revolution of Personalized Healthcare">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>A Revolution of Personalized Healthcare: Enabling Human Digital Twin with Mobile AIGC</b><br>
+    Jiayuan Chen, Changyan Yi, Hongyang Du, Dusit Niyato, Jiawen Kang, Jun Cai, Xuemin (Sherman) Shen<br>
+    <em>IEEE Network Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper summarizes and showcases how generative AI can be used in healthcare applications.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2307.12115.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=T76EHYqap7o&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1XH4y1o7in/?spm_id_from=333.999.0.0">Bilibili</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://arxiv.org/abs/2304.11098"><img class="responsive-img" style="vertical-align:middle" src="accessories/rcv.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study</b>
-<br>Ruichen Zhang, Ke Xiong, Hongyang Du, Dusit Niyato, Jiawen Kang, Xuemin Shen, H. Vincent Poor<br>
-<em>IEEE Network Magazine</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper summarizes and showcases how generative AI can be used in healthcare applications. </b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2304.11098.pdf">Paper</a> |
-<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.youtube.com/watch?v=pRzbHGw-5dk&ab_channel=DurAIn-Tech">YouTube</a> |
-<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.bilibili.com/video/BV1jN411n7ef/?spm_id_from=333.999.0.0">Bilibili</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
-
-<tr>
-<td><a href="https://arxiv.org/abs/2307.12115"><img class="responsive-img" style="vertical-align:middle" src="accessories/heal.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>A Revolution of Personalized Healthcare: Enabling Human Digital Twin with Mobile AIGC</b>
-<br>Jiayuan Chen, Changyan Yi, Hongyang Du, Dusit Niyato, Jiawen Kang, Jun Cai, Xuemin (Sherman) Shen<br>
-<em>IEEE Network Magazine</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper summarizes and showcases how generative AI can be used in healthcare applications. </b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2307.12115.pdf">Paper</a> |
-<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.youtube.com/watch?v=T76EHYqap7o&ab_channel=DurAIn-Tech">YouTube</a> |
-<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.bilibili.com/video/BV1XH4y1o7in/?spm_id_from=333.999.0.0">Bilibili</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
 
 
 [back](./)
