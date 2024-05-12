@@ -235,30 +235,47 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 # Main Topics
 
 <style>
+  .info-container {
+    display: flex;
+    justify-content: space-around; /* Distributes space evenly around the items */
+    align-items: stretch; /* Stretches the items to fill the container */
+    width: 100%;
+  }
+
   .info-box {
     border: 1px solid #ccc; /* Gray border for the boxes */
     padding: 10px; /* Padding around the content inside the boxes */
     box-shadow: 0px 0px 10px #ccc; /* Optional: Adds a subtle shadow around the boxes */
     margin-bottom: 20px; /* Space between the boxes and any content below */
+    width: 30%; /* Each box takes up 30% of the container width */
+    display: flex; /* Using flex to align the image and text */
+    flex-direction: column; /* Stacks the content vertically */
+    align-items: center; /* Centers the content horizontally */
+  }
+
+  .info-box img {
+    width: 100%; /* Makes the image fill the available width */
+    height: auto; /* Keeps the image's aspect ratio intact */
   }
 </style>
 
-<p align="center">
-  <a href="./another-page.html" style="display:inline-block; margin-right:10px; width:30%;" class="info-box">
-    <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
+<div class="info-container">
+  <a href="./another-page.html" class="info-box">
+    <img src="./DRL.png" alt="Diffusion Reinforcement Learning">
     <br>Diffusion Reinforcement Learning
   </a>
 
-  <a href="./another-page2.html" style="display:inline-block; margin-right:10px; width:30%;" class="info-box">
-    <img src="./LLM.png" alt="Large Language Models" style="width:100%;">
+  <a href="./another-page2.html" class="info-box">
+    <img src="./LLM.png" alt="Large Language Models">
     <br>Interactive AI Agent
   </a>
 
-  <a href="./another-page3.html" style="display:inline-block; width:30%;" class="info-box">
-    <img src="./graph.png" alt="Diffusion Graph Generation" style="width:100%;">
+  <a href="./another-page3.html" class="info-box">
+    <img src="./graph.png" alt="Diffusion Graph Generation">
     <br>Resource Allocation
   </a>
-</p>
+</div>
+
 
 
 # Update Publications
