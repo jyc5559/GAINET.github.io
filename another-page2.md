@@ -34,114 +34,172 @@ Description: Interactive AI Agents are sophisticated software programs designed 
 </style>
 
 
-<tr>
-<td><a href="https://alvinliu97.github.io/MOEGAI-metaverse/"><img class="responsive-img" style="vertical-align:middle" src="accessories/MOE.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Fusion of Mixture of Experts and Generative Artificial Intelligence in Mobile Edge Metaverse</b>
-<br> Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Shiwen Mao, Dong In Kim<br>
-<em>Under Review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper explores the potential of mixture of experts with generative AI, focusing on mobile edge Metaverse.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/abs/2404.03321">Paper</a>|
-<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
-	<a href="https://alvinliu97.github.io/MOEGAI-metaverse/">Code</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 1 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://alvinliu97.github.io/MOEGAI-metaverse/">
+      <img src="accessories/MOE.png" alt="Fusion of Mixture of Experts and Generative AI">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Fusion of Mixture of Experts and Generative Artificial Intelligence in Mobile Edge Metaverse</b><br>
+    Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Shiwen Mao, Dong In Kim<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explores the potential of mixture of experts with generative AI, focusing on mobile edge Metaverse.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/abs/2404.03321">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://alvinliu97.github.io/MOEGAI-metaverse/">Code</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://zhewang77.github.io/GAIMIMO/"><img class="responsive-img" style="vertical-align:middle" src="accessories/zhe1.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision</b>
-<br>Zhe Wang, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, Khaled B. Letaief<br>
-<em>Under Review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper studies the generative AI agent for next-generation MIMO design.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2404.08878.pdf">Paper</a>|
-<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
-<a href="https://zhewang77.github.io/GAIMIMO/">Code</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 2 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://zhewang77.github.io/GAIMIMO/">
+      <img src="accessories/zhe1.png" alt="Generative AI Agent for MIMO Design">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision</b><br>
+    Zhe Wang, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, Khaled B. Letaief<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper studies the generative AI agent for next-generation MIMO design.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2404.08878.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://zhewang77.github.io/GAIMIMO/">Code</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://limedire.github.io/GAI-Game/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaigame.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI for Game Theory-based Mobile Networking</b>
-<br>Long He, Geng Sun, Dusit Niyato, Hongyang Du, Fang Mei, Jiawen Kang, Mérouane Debbah, Zhu Han<br>
-<em>Under Review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">The paper explores the combination of LLM with game theory, focusing on mobile network optimization.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/abs/2404.09699">Paper</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 3 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://limedire.github.io/GAI-Game/">
+      <img src="accessories/gaigame.png" alt="Generative AI for Game Theory-based Mobile Networking">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Game Theory-based Mobile Networking</b><br>
+    Long He, Geng Sun, Dusit Niyato, Hongyang Du, Fang Mei, Jiawen Kang, Mérouane Debbah, Zhu Han<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explores the combination of LLM with game theory, focusing on mobile network optimization.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/abs/2404.09699">Paper</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI for Advanced UAV Networking</b>
-<br>Geng Sun, Wenwen Xie, Dusit Niyato, Hongyang Du, Jiawen Kang, Jing Wu, Sumei Sun, Ping Zhang<br>
-<em>Under Review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposed a framework for UAV networking, which augments with RAG and generative diffusion model.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2404.10556.pdf">Paper</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 4 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/">
+      <img src="accessories/gaiuav.png" alt="Generative AI for Advanced UAV Networking">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Advanced UAV Networking</b><br>
+    Geng Sun, Wenwen Xie, Dusit Niyato, Hongyang Du, Jiawen Kang, Jing Wu, Sumei Sun, Ping Zhang<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper proposed a framework for UAV networking, which augments with RAG and generative diffusion model.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2404.10556.pdf">Paper</a>
+    </div>
+  </div>
+</div>
 
-<tr>
-<td><a href="https://rickyzang.github.io/GIAI/"><img class="responsive-img" style="vertical-align:middle" src="accessories/rciai.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Interactive Al with Retrieval-Augmented Generation for Next-Generation Networking</b>
-<br>Ruichen Zhang, Hongyang Du, Yinqiu Liu, Dusit Niyato, Jiawen Kang, Sumei Sun, Xuemin Shen, H. Vincent Poor<br>
-<em>Under Review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper explores an integration and enhancement of interactive AI (IAI) in networking.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2401.11391.pdf">Paper</a> |
-<img style="vertical-align:middle" src="accessories/github_icon.jpg"  width="15" height="inherit"  alt="" /> 
-<a href="https://rickyzang.github.io/GIAI/">Code</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
+<!-- Publication 5 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://rickyzang.github.io/GIAI/">
+      <img src="accessories/rciai.png" alt="Interactive AI with Retrieval-Augmented Generation for Networking">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Interactive Al with Retrieval-Augmented Generation for Next-Generation Networking</b><br>
+    Ruichen Zhang, Hongyang Du, Yinqiu Liu, Dusit Niyato, Jiawen Kang, Sumei Sun, Xuemin Shen, H. Vincent Poor<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper explores an integration and enhancement of interactive AI (IAI) in networking.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2401.11391.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://rickyzang.github.io/GIAI/">Code</a>
+    </div>
+  </div>
+</div>
+
+<!-- Publication 6 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2308.04942">
+      <img src="accessories/guangyuansem.png" alt="Semantic communications for AIGC">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Semantic communications for artificial intelligence generated content (AIGC) toward effective content creation</b><br>
+    Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Shen<br>
+    <em>IEEE Network Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">In this paper, a novel comprehensive conceptual model for the integration of AIGC and SemCom is developed.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2308.04942.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=-n1fKwBHouI">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1w94y1b7zj/?spm_id_from=333.337.search-card.all.click&vd_source=7a1cccf64fe5f606a2b055b2b18fbfb9">Bilibili</a>
+    </div>
+  </div>
+</div>
+
+<!-- Publication 7 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2402.13553">
+      <img src="accessories/cys.png" alt="Generative AI for Secure Physical Layer Communications">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Secure Physical Layer Communications: A Survey</b><br>
+    Changyuan Zhao, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin (Sherman) Shen, Khaled B. Letaief<br>
+    <em>Under review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper offers an extensive survey on the various applications of GAI in enhancing security within the physical layer of communication networks.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2402.13553.pdf">Paper</a>
+    </div>
+  </div>
+</div>
 
 
-<tr>
-<td><a href="https://arxiv.org/abs/2308.04942"><img class="responsive-img" style="vertical-align:middle" src="accessories/guangyuansem.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Semantic communications for artificial intelligence generated content (AIGC) toward effective content creation</b>
-<br>Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Shen<br>
-<em>IEEE Network Magazine</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);"> In this paper, a novel comprehensive conceptual model for the integration of AIGC and SemCom is developed.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2308.04942.pdf">Paper</a> |
-<img src="accessories/ytb.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.youtube.com/watch?v=-n1fKwBHouI">YouTube</a> |
-<img src="accessories/bili.jpg"  width="12" height="inherit" alt=""></a>
-<a href="https://www.bilibili.com/video/BV1w94y1b7zj/?spm_id_from=333.337.search-card.all.click&vd_source=7a1cccf64fe5f606a2b055b2b18fbfb9">Bilibili</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
 
-<tr>
-<td><a href="https://arxiv.org/abs/2402.13553"><img class="responsive-img" style="vertical-align:middle" src="accessories/cys.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI for Secure Physical Layer Communications: A Survey</b>
-<br>Changyuan Zhao, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin (Sherman) Shen, Khaled B. Letaief<br>
-<em>Under review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);"> This paper offers an extensive survey on the various applications of GAI in enhancing security within the physical layer of communication networks.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2402.13553.pdf">Paper</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
-<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2311.06523"><img class="responsive-img" style="vertical-align:middle" src="accessories/ruicehnsagin.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
