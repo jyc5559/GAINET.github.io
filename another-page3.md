@@ -22,7 +22,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://hongyangdu.github.io/MoE4OPT/"><img class="responsive-img" style="vertical-align:middle" src="accessories/dumoeopt.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -42,6 +42,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2309.01065"><img class="responsive-img" style="vertical-align:middle" src="accessories/yinqiuopt.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -59,6 +60,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2309.02616"><img class="responsive-img" style="vertical-align:middle" src="accessories/dumolti.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -78,6 +80,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2308.14578"><img class="responsive-img" style="vertical-align:middle" src="accessories/jkflp.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -95,7 +98,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2306.14138"><img class="responsive-img" style="vertical-align:middle" src="accessories/duapple.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -113,6 +116,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://hongyangdu.github.io/SemSensing/"><img class="responsive-img" style="vertical-align:middle" src="accessories/DUINVER.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -128,7 +132,7 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://hongyangdu.github.io/AttentionQoE/"><img class="responsive-img" style="vertical-align:middle" src="accessories/duatten.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -144,5 +148,6 @@ Description: Resource Allocation is a critical process in both project managemen
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 [back](./)
