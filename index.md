@@ -252,20 +252,21 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     flex-direction: column; /* Stacks the content vertically */
     align-items: center; /* Centers the content horizontally */
     justify-content: space-between; /* Maximizes space between items and aligns them more cleanly */
-    min-height: 400px; /* Increases the minimum height to accommodate larger images */
+    min-height: 400px; /* Adjusted minimum height to accommodate larger images */
   }
 
   .info-box img {
     width: 100%; /* Makes the image fill the available width */
-    max-height: 300px; /* Increases max height to allow larger image display */
+    max-height: 300px; /* Adjusted max height to allow larger image display */
     object-fit: contain; /* Ensures the image is fully visible and properly scaled within the max height */
+    margin-bottom: 5px; /* Reduced bottom margin to decrease the space above the title */
   }
 
   .info-title {
-    margin-top: auto; /* Pushes the title to the bottom of the flex container */
+    margin-top: 0; /* Reduces the space above the title */
     width: 100%; /* Ensures the title width matches the box width */
     text-align: center; /* Centers the title text */
-    padding: 10px 0; /* Adds padding above and below the text */
+    padding: 5px 0; /* Reduced padding above and below the text */
   }
 </style>
 
