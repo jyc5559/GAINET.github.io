@@ -46,7 +46,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2303.13052"><img class="responsive-img" style="vertical-align:middle" src="accessories/dutmc.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -62,6 +62,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2307.07146"><img class="responsive-img" style="vertical-align:middle" src="accessories/xuminfl.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -79,7 +80,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2303.17114"><img class="responsive-img" style="vertical-align:middle" src="accessories/yqgm.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -97,6 +98,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 <tr>
 <td><a href="https://arxiv.org/abs/2303.13869"><img class="responsive-img" style="vertical-align:middle" src="accessories/yud.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
@@ -114,7 +116,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
 &nbsp &nbsp &nbsp 
 </td>
 </tr>
-
+<br style="margin-top: 10px; margin-bottom: 0;">
 
 
 
