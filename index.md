@@ -173,15 +173,15 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <table>
   <tr>
     <td align="center">
-      <img src="path_to_image1.jpg" alt="Name1" width="100" height="100"><br>
+      <img src="./dhy.jpg" alt="Hongyang Du" width="100" height="100"><br>
       Name1
     </td>
     <td align="center">
-      <img src="path_to_image2.jpg" alt="Name2" width="100" height="100"><br>
+      <img src="./wjc.jpg" alt="Jiacheng Wang" width="100" height="100"><br>
       Name2
     </td>
     <td align="center">
-      <img src="path_to_image3.jpg" alt="Name3" width="100" height="100"><br>
+      <img src="./cjy.jpg" alt="Jingyang Cao" width="100" height="100"><br>
       Name3
     </td>
   </tr>
