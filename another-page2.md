@@ -8,6 +8,32 @@ title: Interactive AI Agent
 Description: Interactive AI Agents are sophisticated software programs designed to engage with users in a dynamic, responsive manner. These agents use a combination of natural language processing, machine learning, and sometimes even emotional intelligence to interpret and respond to human inputs. The primary goal of these AI systems is to facilitate an intuitive and efficient user experience, whether for customer service, personal assistance, educational purposes, or entertainment. Interactive AI agents are capable of learning from interactions to improve their responses over time, making them increasingly effective at handling complex inquiries and tasks. Their ability to operate autonomously and assist across various platforms makes them invaluable in today’s technology-driven world.
 
 ## Related Publication
+<style>
+  .publication-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  .publication-image {
+   margin-right: 20px;
+    border: 1px solid #ccc;
+    width: 100%; /* 设置宽度为100%以适应容器 */
+    max-width: 200px; /* 可以设置一个最大宽度来保持图片的显示质量 */
+    height: auto; /* 高度自动，保持图片的原始比例 */
+  }
+  .publication-details {
+    flex-grow: 1;
+  }
+  .publication-links img {
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  .publication-title {
+    color: rgb(100,70,200);
+  }
+</style>
+
+
 <tr>
 <td><a href="https://alvinliu97.github.io/MOEGAI-metaverse/"><img class="responsive-img" style="vertical-align:middle" src="accessories/MOE.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 <td>
