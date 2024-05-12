@@ -290,7 +290,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     </td>
     <td align="center">
       <img src="./dusit.png" alt="Hongyang Du" width="200" height="200"><br>
-      <span style="color: blue;">Dusit Niyato</span>
+      <span style="color: blue;">Dusit Niyato(IEEE Fellow)</span>
     <td align="center">
       <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="220"><br>
       Hongyang Du
