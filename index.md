@@ -238,26 +238,27 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   .info-container {
     display: flex;
     justify-content: space-around; /* Distributes space evenly around the items */
-    align-items: stretch; /* Stretches the items to fill the container */
+    align-items: stretch; /* Ensures the boxes fill the container vertically */
     width: 100%;
   }
 
   .info-box {
     border: 1px solid #ccc; /* Gray border for the boxes */
     padding: 10px; /* Padding around the content inside the boxes */
-    box-shadow: 0px 0px 10px #ccc; /* Optional: Adds a subtle shadow around the boxes */
+    box-shadow: 0px 0px 10px #ccc; /* Adds a subtle shadow around the boxes */
     margin-bottom: 20px; /* Space between the boxes and any content below */
     width: 30%; /* Each box takes up 30% of the container width */
     display: flex; /* Using flex to align the image and text */
     flex-direction: column; /* Stacks the content vertically */
     align-items: center; /* Centers the content horizontally */
     justify-content: space-between; /* Maximizes space between items and aligns them more cleanly */
-    min-height: 320px; /* Ensures all boxes are the same height */
+    min-height: 400px; /* Increases the minimum height to accommodate larger images */
   }
 
   .info-box img {
     width: 100%; /* Makes the image fill the available width */
-    height: auto; /* Keeps the image's aspect ratio intact */
+    max-height: 300px; /* Increases max height to allow larger image display */
+    object-fit: contain; /* Ensures the image is fully visible and properly scaled within the max height */
   }
 
   .info-title {
@@ -284,6 +285,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <div class="info-title">Resource Allocation</div>
   </a>
 </div>
+
 
 
 
