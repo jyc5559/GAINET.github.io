@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Diffusion Reinforcement Learning
-description: This is just another page
+title: Interactive AI Agent
+
 ---
 
-## Welcome to 2
+## Welcome to Interactive AI Agent
+description: This is just another page
 
 _yay_
 
