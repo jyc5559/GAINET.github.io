@@ -14,12 +14,15 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
     align-items: flex-start;
     margin-bottom: 20px;
   }
-  .publication-image {
-    margin-right: 20px;
-    border: 1px solid #ccc;
+  .publication-image img {
+    width: 200px;  /* Set width */
+    height: 200px; /* Set height */
+    object-fit: cover; /* Ensure the image covers the set dimensions */
+    border: 1px solid #ccc; /* Optional border */
   }
   .publication-details {
     flex-grow: 1;
+    margin-left: 20px; /* Add some space between the image and text */
   }
   .publication-links img {
     vertical-align: middle;
@@ -29,6 +32,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
     color: rgb(100,70,200);
   }
 </style>
+
 
 <div class="publication-container">
   <div class="publication-image">
@@ -133,6 +137,8 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
     </div>
   </div>
 </div>
+
+
 
 <div class="publication-container">
   <div class="publication-image">
