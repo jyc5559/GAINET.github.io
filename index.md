@@ -136,84 +136,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </div>
 
 
-# Main Topics
-
-<div align="center">
-  <table style="width:100%; table-layout: fixed;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden;">
-          <a href="./another-page.html">
-            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:90%; height:auto; display: block; margin: auto;">
-            <div style="padding: 10px; text-align: center;">
-              <strong>Diffusion Reinforcement Learning</strong>
-            </div>
-          </a>
-        </div>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden;">
-          <a href="./another-page2.html">
-            <img src="./LLM.png" alt="Interactive AI Agent" style="width:90%; height:auto; display: block; margin: auto;">
-            <div style="padding: 10px; text-align: center;">
-              <strong>Interactive AI Agent</strong>
-            </div>
-          </a>
-        </div>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden;">
-          <a href="./another-page3.html">
-            <img src="./graph.png" alt="Resource Allocation" style="width:90%; height:auto; display: block; margin: auto;">
-            <div style="padding: 10px; text-align: center;">
-              <strong>Resource Allocation</strong>
-            </div>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-# Main Topics
-
-<div align="center">
-  <table style="width:100%; table-layout: fixed;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 300px;">
-          <a href="./another-page.html">
-            <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:90%; height:200px; object-fit: contain;">
-          </a>
-          <div style="padding: 10px; text-align: center; width: 100%;">
-            <strong>Diffusion Reinforcement Learning</strong>
-          </div>
-        </div>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 300px;">
-          <a href="./another-page2.html">
-            <img src="./LLM.png" alt="Interactive AI Agent" style="width:90%; height:200px; object-fit: contain;">
-          </a>
-          <div style="padding: 10px; text-align: center; width: 100%;">
-            <strong>Interactive AI Agent</strong>
-          </div>
-        </div>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 300px;">
-          <a href="./another-page3.html">
-            <img src="./graph.png" alt="Resource Allocation" style="width:90%; height:200px; object-fit: contain;">
-          </a>
-          <div style="padding: 10px; text-align: center; width: 100%;">
-            <strong>Resource Allocation</strong>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 # Main topics
 <p align="center">
   <a href="./another-page.html" style="display:inline-block; margin-right:10px; width:30%;">
@@ -287,6 +209,59 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </div>
 
+# Main Topics
+
+<style>
+  .info-container {
+    display: flex;
+    justify-content: space-around; /* Distributes space evenly around the items */
+    align-items: stretch; /* Ensures the boxes fill the container vertically */
+    width: 100%;
+  }
+
+  .info-box {
+    border: 1px solid #ccc; /* Gray border for the boxes */
+    padding: 10px; /* Padding around the content inside the boxes */
+    box-shadow: 0px 0px 10px #ccc; /* Adds a subtle shadow around the boxes */
+    margin-bottom: 20px; /* Space between the boxes and any content below */
+    width: 30%; /* Each box takes up 30% of the container width */
+    display: flex; /* Using flex to align the image and text */
+    flex-direction: column; /* Stacks the content vertically */
+    align-items: center; /* Centers the content horizontally */
+    justify-content: flex-end; /* Aligns content towards the bottom */
+    min-height: 400px; /* Adjusted minimum height to accommodate larger images */
+  }
+
+  .info-box img {
+    width: 100%; /* Makes the image fill the available width */
+    max-height: 300px; /* Adjusted max height to allow larger image display */
+    object-fit: contain; /* Ensures the image is fully visible and properly scaled within the max height */
+    margin-bottom: 5px; /* Reduces the space above the title */
+  }
+
+  .info-title {
+    width: 100%; /* Ensures the title width matches the box width */
+    text-align: center; /* Centers the title text */
+    padding: 5px 0; /* Reduces padding above and below the text */
+  }
+</style>
+
+<div class="info-container">
+  <a href="./another-page.html" class="info-box">
+    <img src="./DRL.png" alt="Diffusion Reinforcement Learning">
+    <div class="info-title">Diffusion Reinforcement Learning</div>
+  </a>
+
+  <a href="./another-page2.html" class="info-box">
+    <img src="./LLM.png" alt="Large Language Models">
+    <div class="info-title">Interactive AI Agent</div>
+  </a>
+
+  <a href="./another-page3.html" class="info-box">
+    <img src="./graph.png" alt="Diffusion Graph Generation">
+    <div class="info-title">Resource Allocation</div>
+  </a>
+</div>
 
 
 
