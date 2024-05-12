@@ -276,12 +276,20 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </div>
 
 # Group Members
+<style>
+  .round-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Creates the round shape */
+    object-fit: cover; /* Ensures the images fit well in the circle */
+  }
+</style>
+
 <table>
   <tr>
     </td>
     <td align="center">
       <img src="./dusit.png" alt="Hongyang Du" width="200" height="200"><br>
-      <span style="color: rgb(100,70,200);">
       Dusit Niyato (IEEE Fellow)</span>
     <td align="center">
       <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="220"><br>
