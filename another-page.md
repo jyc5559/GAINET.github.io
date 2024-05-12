@@ -15,7 +15,7 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
     margin-bottom: 20px;
   }
   .publication-image {
-    margin-right: 20px;
+   margin-right: 20px;
     border: 1px solid #ccc;
     width: 100%; /* 设置宽度为100%以适应容器 */
     max-width: 200px; /* 可以设置一个最大宽度来保持图片的显示质量 */
@@ -27,28 +27,11 @@ Description: Diffusion Reinforcement Learning (DRL) is an advanced approach that
   .publication-links img {
     vertical-align: middle;
     margin-right: 5px;
-    width: 100%; /* 如果你也想让链接中的图片大小自适应 */
-    height: auto; /* 保持图片比例 */
   }
   .publication-title {
     color: rgb(100,70,200);
   }
-
-  /* 响应式设计：调整小屏幕上的布局 */
-  @media screen and (max-width: 600px) {
-    .publication-container {
-      flex-direction: column; /* 在小屏幕上使内容垂直堆叠 */
-    }
-    .publication-image {
-      max-width: 100%; /* 小屏幕上让图片宽度为100% */
-      margin-bottom: 10px; /* 在图片和详情之间添加间隔 */
-    }
-    .publication-links img {
-      width: 50%; /* 调整小屏幕上链接图片的宽度 */
-    }
-  }
 </style>
-
 
 <div class="publication-container">
   <div class="publication-image">
