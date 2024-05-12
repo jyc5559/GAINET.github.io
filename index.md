@@ -251,11 +251,17 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     display: flex; /* Using flex to align the image and text */
     flex-direction: column; /* Stacks the content vertically */
     align-items: center; /* Centers the content horizontally */
+    justify-content: space-around; /* Evenly distributes spacing of items along the column */
   }
 
   .info-box img {
     width: 100%; /* Makes the image fill the available width */
     height: auto; /* Keeps the image's aspect ratio intact */
+  }
+
+  /* Specific adjustment for the first box to align content lower */
+  .info-box:first-child {
+    justify-content: center; /* Adjusts content to be centered vertically */
   }
 </style>
 
@@ -275,6 +281,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <br>Resource Allocation
   </a>
 </div>
+
 
 
 
