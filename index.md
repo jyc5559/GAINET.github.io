@@ -138,14 +138,20 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 
 # Main topics
 <p align="center">
+  
+Diffusion Reinforcement Learning: Diffusion Reinforcement Learning combines the ideas of diffusion processes with reinforcement learning to enhance agent decision-making in complex environments. This approach can help in achieving more stable and efficient learning dynamics.
   <a href="./another-page.html" style="display:inline-block; margin-right:10px; width:30%;">
     <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
     <br>Diffusion Reinforcement Learning
   </a>
+
+Interactive AI Agent: Interactive AI Agents are designed to engage with users through dialogue, learning from interactions to improve their responses and assistance. These agents are commonly used in applications such as virtual customer support, personal assistants, and interactive gaming.
   <a href="./another-page2.html" style="display:inline-block; margin-right:10px; width:30%;">
     <img src="./LLM.png" alt="Large Language Models" style="width:100%;">
     <br>Interactive AI Agent
   </a>
+
+Resource Allocation: Resource Allocation involves distributing available resources among various competing needs or processes in an optimal manner. It is crucial in fields like economics, computing, and logistics, ensuring that resources are used efficiently and effectively to meet specific objectives.
   <a href="./another-page3.html" style="display:inline-block; width:30%;">
     <img src="./graph.png" alt="Diffusion Graph Generation" style="width:100%;">
     <br>Resource Allocation
