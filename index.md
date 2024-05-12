@@ -141,6 +141,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </td>
 </tr>
 <br style="margin-top: 0px; margin-bottom: 0px;">
+
 <tr>
 <td><a href="https://hongyangdu.github.io/Net4MoE/"><img class="responsive-img" style="vertical-align:middle" src="accessories/jcmoe.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 <td>
@@ -156,18 +157,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </td>
 </tr>
 <br style="margin-top: 0px; margin-bottom: 0px;">
-<tr>
-<td><a href="https://xiewenwen22.github.io/UAV_Spectrum_Estimation/"><img class="responsive-img" style="vertical-align:middle" src="accessories/gaiuav.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
-<td>
-<b>Generative AI for Advanced UAV Networking</b>
-<br>Geng Sun, Wenwen Xie, Dusit Niyato, Hongyang Du, Jiawen Kang, Jing Wu, Sumei Sun, Ping Zhang<br>
-<em>Under Review</em> <br>
-<em> <img style="vertical-align:middle" src="accessories/gold_medal.png"  width="15" height="inherit"  alt="" /> <b style="color:rgb(100,70,200);">This paper proposed a framework for UAV networking, which augments with RAG and generative diffusion model.</b> </em> <br>
-<img style="vertical-align:middle" src="accessories/pdf.jpg"  width="12" height="inherit"  alt="" /> 
-<a href="https://arxiv.org/pdf/2404.10556.pdf">Paper</a>
-&nbsp &nbsp &nbsp 
-</td>
-</tr>
 
 # Group Members
 <table>
@@ -204,9 +193,5 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 
 
 
-
-
-# click
-[Link to another page](./another-page.html).
 
 
