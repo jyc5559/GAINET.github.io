@@ -162,37 +162,37 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 <table>
   <tr>
     <td align="center">
-      <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="200"><br>
+      <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="220"><br>
       Hongyang Du
     </td>
     <td align="center">
-      <img src="./zrc.jpg" alt="Jiacheng Wang" width="200" height="200"><br>
+      <img src="./zrc.jpg" alt="Jiacheng Wang" width="200" height="220"><br>
       Ruichen Zhang
     </td>
     <td align="center">
-      <img src="./wjc.jpg" alt="Jingyang Cao" width="200" height="200"><br>
+      <img src="./wjc.jpg" alt="Jingyang Cao" width="200" height="220"><br>
       Jiacheng Wang
     </td>
     <td align="center">
-      <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="200"><br>
+      <img src="./dhy.jpg" alt="Hongyang Du" width="200" height="220"><br>
       Yinqiu Liu
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./lgy.jpg" alt="Name4" width="200" height="200"><br>
+      <img src="./lgy.jpg" alt="Name4" width="200" height="220"><br>
       Guangyuan Liu
     </td>
     <td align="center">
-      <img src="./zcy.jpg" alt="Name5" width="200" height="200"><br>
+      <img src="./zcy.jpg" alt="Name5" width="200" height="220"><br>
       Changyuan Zhao
     </td>
     <td align="center">
-      <img src="./cjy.jpg" alt="Name6" width="200" height="200"><br>
+      <img src="./cjy.jpg" alt="Name6" width="200" height="220"><br>
       Jingyang Cao
     </td>
     <td align="center">
-      <img src="./WZ.jpg" alt="Hongyang Du" width="200" height="200"><br>
+      <img src="./WZ.jpg" alt="Hongyang Du" width="200" height="220"><br>
       Zhe Wang
     </td>
   </tr>
