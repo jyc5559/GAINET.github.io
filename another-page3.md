@@ -7,7 +7,7 @@ title: Resource Allocation
 ## Welcome to Resource Allocation
 Description: Resource Allocation is a critical process in both project management and systems engineering that involves assigning available resources in the most efficient manner. This strategic distribution focuses on optimizing the use of time, materials, personnel, and budget to achieve specific objectives. Effective resource allocation ensures that projects are completed on time, within budget, and with the desired quality, while also maximizing overall productivity and profitability. This process requires careful planning, monitoring, and adjustment to respond to changing circumstances and priorities. 
 
-## Related Publication
+## Representative Publications
 <style>
   .publication-container {
     display: flex;
