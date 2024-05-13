@@ -242,7 +242,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     object-fit: cover; /* Ensures the images fit well in the circle */
   }
 </style>
-
 <table>
   <tr>
     <td align="center">
