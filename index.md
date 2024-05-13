@@ -301,13 +301,13 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </tr>
   <tr>
     <td align="center">
-      <img src="./lyq.png" alt="Hongyang Du" width="200" height="220"><br>
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=KCdBiSMAAAAJ"><img src="./lyq.png" alt="Hongyang Du" width="200" height="220"></a><br>
     </td>
     <td align="center">
-      <img src="./lgy.jpg" alt="Name4" width="200" height="220"><br>
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=1HVj4WoAAAAJ"><img src="./lgy.jpg" alt="Name4" width="200" height="220"></a><br>
     </td>
     <td align="center">
-      <img src="./zcy.jpg" alt="Name5" width="200" height="220"><br>
+     <a href="https://scholar.google.com/citations?hl=zh-CN&user=FI6q53MAAAAJ"><img src="./zcy.jpg" alt="Name5" width="200" height="220"></a><br>
     </td>
     <td align="center">
       <img src="./cjy.jpg" alt="Name6" width="200" height="220"><br>
@@ -315,10 +315,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </tr>
   <tr>
     <td align="center">
-      <img src="./WZ.jpg" alt="Hongyang Du" width="200" height="220"><br>
-    </td>
-     <td align="center">
-       <a href="https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/dusit-niyato"><img src="./dusit.png" alt="Hongyang Du" width="200" height="220"></a><br>
+       <a href="https://zhewang77.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="200" height="220"></a><br>
     </td>
   </tr>
   <!-- 更多成员 -->
