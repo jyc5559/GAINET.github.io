@@ -25,9 +25,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </p>
 
-
-
-
 # Publications
 <h1 style="font-size: 24px;">Recommended Publications</h1>
 <style>
