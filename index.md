@@ -13,8 +13,8 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </p>
 <p align="center">
-  <a href="./another-page2.html" style="display:block; margin-bottom:20px;">
-    <img src="./LLM.png" alt="Large Language Models" style="width:60%;">
+  <a href="./another-page2.html" style="display:block; margin-bottom:5px;">
+    <img src="./llm.jpg" alt="Large Language Models" style="width:60%;">
     <br>Interactive AI Agent
   </a>
 </p>
