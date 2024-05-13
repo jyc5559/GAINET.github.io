@@ -23,6 +23,25 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </p>
 
+# Main topics
+<p align="center">
+  <a href="./another-page.html" style="display:block; margin-bottom:20px;">
+    <img src="./DRL.png" alt="Diffusion Reinforcement Learning" style="width:100%;">
+    <br>Diffusion Reinforcement Learning
+  </a>
+</p>
+<p align="center">
+  <a href="./another-page2.html" style="display:block; margin-bottom:20px;">
+    <img src="./LLM.png" alt="Large Language Models" style="width:100%;">
+    <br>Interactive AI Agent
+  </a>
+</p>
+<p align="center">
+  <a href="./another-page3.html" style="display:block;">
+    <img src="./graph.png" alt="Diffusion Graph Generation" style="width:100%;">
+    <br>Resource Allocation
+  </a>
+</p>
 
 
 # Recommended Publications
