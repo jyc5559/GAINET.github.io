@@ -318,7 +318,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       <img src="./WZ.jpg" alt="Hongyang Du" width="200" height="220"><br>
     </td>
      <td align="center">
-       <a href="[https://example.com/dusit](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/dusit-niyato)"><img src="./dusit.png" alt="Hongyang Du" width="200" height="220"></a><br>
+       <a href="https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/dusit-niyato"><img src="./dusit.png" alt="Hongyang Du" width="200" height="220"></a><br>
     </td>
   </tr>
   <!-- 更多成员 -->
