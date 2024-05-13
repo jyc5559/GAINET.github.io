@@ -139,7 +139,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </div>
 </div>
 
-## Update Publications
+<h1 style="font-size: 24px;">Update Publications</h1>
 <style>
   .publication-container {
     display: flex;
