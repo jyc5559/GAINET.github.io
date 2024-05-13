@@ -25,8 +25,12 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </p>
 
+<h1 style="font-size: 24px;">Publications</h1>
+
+
+
 # Publications
-<span style="margin-bottom: 0;">### Recommended Publications
+## Recommended Publications
 <style>
   .publication-container {
     display: flex;
@@ -136,7 +140,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </div>
 </div>
 
-### Update Publications
+## Update Publications
 <style>
   .publication-container {
     display: flex;
