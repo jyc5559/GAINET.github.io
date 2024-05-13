@@ -26,7 +26,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </p>
 
 # Publications
-### Recommended Publications
+<span style="margin-bottom: 0;">### Recommended Publications
 <style>
   .publication-container {
     display: flex;
