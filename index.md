@@ -25,6 +25,123 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </p>
 
+# Recommended Publications
+<style>
+  .publication-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px; /* Reduced margin */
+  }
+  .publication-image {
+    margin-right: 15px; /* Reduced margin */
+    border: 1px solid #ccc;
+    width: 100%; /* Maintain width as 100% of the container */
+    max-width: 150px; /* Reduced max width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .publication-details {
+    flex-grow: 1;
+    font-size: 14px; /* Reduced font size for publication details */
+  }
+  .publication-links img {
+    vertical-align: middle;
+    margin-right: 4px; /* Slightly reduced margin */
+    width: 10px; /* Reduced image size in links */
+    height: auto;
+  }
+  .publication-title {
+    color: rgb(100,70,200);
+    font-size: 16px; /* Slightly reduced font size for titles */
+  }
+  h2 {
+    font-size: 18px; /* Adjust heading size if necessary */
+  }
+</style>
+
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://hongyangdu.github.io/GDMOPT/">
+      <img class="responsive-img" src="accessories/GDMOPT1.png" style="width:200px; height:auto;" alt="">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization</b><br>
+    Hongyang Du, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, Dong In Kim<br>
+    <em>IEEE COMST</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The first tutorial paper to explain various applications of diffusion models and coding examples.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2308.05384.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/GDMOPT/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=-vK1eNtSxOA&t=697s&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1Dm4y157yg/?spm_id_from=333.999.0.0">Bilibili</a>
+    </div>
+  </div>
+</div>
+
+<!-- Publication 2 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2311.06523">
+      <img src="accessories/ruicehnsagin.png" alt="Generative AI for SAGIN">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Space-Air-Ground Integrated Networks (SAGIN)</b><br>
+    Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Ping Zhang, Dong In Kim<br>
+    <em>IEEE Wireless Communications Magazine</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper explores an integration of generative AI in SAGIN, focusing on potential applications and case study.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2311.06523.pdf">Paper</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=cQ2vA4rOHME">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1fT4y1s7Eq/?spm_id_from=333.337.search-card.all.click">Bilibili</a>
+    </div>
+  </div>
+</div>
+
+<!-- Publication 3 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://hongyangdu.github.io/SemSharing/">
+      <img src="accessories/duincen.png" alt="AI-Generated Incentive Mechanism">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing</b><br>
+    Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim<br>
+    <em>IEEE Journal on Selected Areas in Communications</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper proposes a contract theoretic AI-generated incentive mechanism that generates the optimal contract design.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2303.01896.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/SemSharing/">Code</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
 
 # Recommended Publications
 <style>
