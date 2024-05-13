@@ -25,9 +25,14 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </a>
 </p>
 
-
-# Publications
+# Recommended
 <style>
+  .main-header {
+    display: flex;
+    justify-content: space-between; /* Distributes space evenly between the headings */
+    margin: 20px;
+  }
+
   .main-container {
     display: flex;
     justify-content: space-between; /* Aligns children (columns) with space between them */
@@ -66,39 +71,44 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   }
 </style>
 
+<!-- Headers -->
+<div class="main-header">
+  <h2>Recommended Publications</h2>
+  <h2>Update Publications</h2>
+</div>
+
+<!-- Content -->
 <div class="main-container">
   <!-- Recommended Publications Column -->
   <div class="column">
-    <h2>Recommended Publications</h2>
-    <!-- Publication 1 -->
-    <div class="publication-container">
-      <div class="publication-image">
-        <a href="https://hongyangdu.github.io/GDMOPT/">
-          <img class="responsive-img" src="accessories/GDMOPT1.png" style="width:200px; height:auto;" alt="">
-        </a>
-      </div>
-      <div class="publication-details">
-        <b>Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization</b><br>
-        Hongyang Du, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, Dong In Kim<br>
-        <em>IEEE COMST</em><br>
-        <div class="publication-links">
-          <em>
-            <img src="accessories/gold_medal.png" width="15" alt=""> 
-            <b class="publication-title">The first tutorial paper to explain various applications of diffusion models and coding examples.</b>
-          </em><br>
-          <img src="accessories/pdf.jpg" width="12" alt=""> 
-          <a href="https://arxiv.org/pdf/2308.05384.pdf">Paper</a> |
-          <img src="accessories/github_icon.jpg" width="15" alt=""> 
-          <a href="https://hongyangdu.github.io/GDMOPT/">Code</a> |
-          <img src="accessories/ytb.jpg" width="12" alt="">
-          <a href="https://www.youtube.com/watch?v=-vK1eNtSxOA&t=697s&ab_channel=DurAIn-Tech">YouTube</a> |
-          <img src="accessories/bili.jpg" width="12" alt="">
-          <a href="https://www.bilibili.com/video/BV1Dm4y157yg/?spm_id_from=333.999.0.0">Bilibili</a>
-        </div>
-      </div>
+   <div class="publication-container">
+  <div class="publication-image">
+    <a href="https://hongyangdu.github.io/GDMOPT/">
+      <img class="responsive-img" src="accessories/GDMOPT1.png" style="width:200px; height:auto;" alt="">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization</b><br>
+    Hongyang Du, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, Dong In Kim<br>
+    <em>IEEE COMST</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The first tutorial paper to explain various applications of diffusion models and coding examples.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2308.05384.pdf">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://hongyangdu.github.io/GDMOPT/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=-vK1eNtSxOA&t=697s&ab_channel=DurAIn-Tech">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1Dm4y157yg/?spm_id_from=333.999.0.0">Bilibili</a>
     </div>
-  
-    <!-- Publication 2 -->
+  </div>
+</div>
+
+<!-- Publication 2 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://arxiv.org/abs/2311.06523">
@@ -173,13 +183,11 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     </div>
   </div>
 </div>
-
+</div>
 
   <!-- Update Publications Column -->
   <div class="column">
-    <h2>Update Publications</h2>
-    
- <!-- Publication 1 -->
+  <!-- Publication 1 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://alvinliu97.github.io/MOEGAI-metaverse/">
@@ -272,6 +280,13 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     </div>
   </div>
 </div>
+</div>
+</div>
+
+
+
+
+
 
 
 
