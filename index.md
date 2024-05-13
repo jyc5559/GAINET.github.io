@@ -129,32 +129,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </div>
 </div>
 
-<!-- Publication 4 -->
-<div class="publication-container">
-  <div class="publication-image">
-    <a href="https://arxiv.org/abs/2310.01036">
-      <img src="accessories/jcisac.png" alt="Generative AI for Integrated Sensing and Communication">
-    </a>
-  </div>
-  <div class="publication-details">
-    <b>Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective</b><br>
-    Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang Cui, Xuemin Shen, Ping Zhang<br>
-    <em>IEEE Wireless Communications Magazine</em><br>
-    <div class="publication-links">
-      <em>
-        <img src="accessories/gold_medal.png" width="15" alt=""> 
-        <b class="publication-title">The paper showcases the use of generative AI in integrated sensing and communications, especially from physical layer.</b>
-      </em><br>
-      <img src="accessories/pdf.jpg" width="12" alt=""> 
-      <a href="https://arxiv.org/pdf/2310.01036.pdf">Paper</a> |
-      <img src="accessories/ytb.jpg" width="12" alt="">
-      <a href="https://www.youtube.com/watch?v=ZqSmgw0XOXo&ab_channel=DurAIn-Tech">YouTube</a> |
-      <img src="accessories/bili.jpg" width="12" alt="">
-      <a href="https://www.bilibili.com/video/BV1v84y1m7kn/?spm_id_from=333.999.0.0">Bilibili</a>
-    </div>
-  </div>
-</div>
-
 # Update Publications
 <style>
   .publication-container {
@@ -247,30 +221,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       </em><br>
       <img src="accessories/pdf.jpg" width="12" alt=""> 
       <a href="https://arxiv.org/abs/2404.09699">Paper</a>
-    </div>
-  </div>
-</div>
-
-<!-- Publication 4 -->
-<div class="publication-container">
-  <div class="publication-image">
-    <a href="https://hongyangdu.github.io/Net4MoE/">
-      <img src="accessories/jcmoe.png" alt="Scalable Generative AI via MoE">
-    </a>
-  </div>
-  <div class="publication-details">
-    <b>Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks</b><br>
-    Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Khaled B. Letaief<br>
-    <em>Under Review</em><br>
-    <div class="publication-links">
-      <em>
-        <img src="accessories/gold_medal.png" width="15" alt=""> 
-        <b class="publication-title">This paper proposes mobile edge networks supported MoE-based GAI.</b>
-      </em><br>
-      <img src="accessories/pdf.jpg" width="12" alt=""> 
-      <a href="https://arxiv.org/pdf/2402.06942.pdf">Paper</a> |
-      <img src="accessories/github_icon.jpg" width="15" alt=""> 
-      <a href="https://hongyangdu.github.io/Net4MoE/">Code</a>
     </div>
   </div>
 </div>
