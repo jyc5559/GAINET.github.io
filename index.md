@@ -163,6 +163,35 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   }
 </style>
 
+<!-- Publication Example -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://rickyzang.github.io/MASMoE/">
+      <img src="accessories/RC_MoE.jpg" alt="Optimizing Generative AI Networking">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts</b><br>
+    Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Ping Zhang, Dong In Kim<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explores a dual perspective multi-agent systems and mixture of experts for generative AI Networking.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/abs/2405.12472">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://rickyzang.github.io/MASMoE/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=09wHgCCUTZc">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1F142127yV/?spm_id_from=333.999.list.card_archive.click&vd_source=2952d487c9e1bfa4561a47411f9dc06a">Bilibili</a>
+    </div>
+  </div>
+</div>
+
+
 <!-- Publication 1 -->
 <div class="publication-container">
   <div class="publication-image">
