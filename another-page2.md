@@ -37,6 +37,82 @@ Interactive AI Agents are sophisticated software programs designed to engage wit
 <!-- Publication 1 -->
 <div class="publication-container">
   <div class="publication-image">
+    <a href="https://rickyzang.github.io/MASMoE/">
+      <img src="accessories/RC_MoE.jpg" alt="Optimizing Generative AI Networking">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts</b><br>
+    Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Ping Zhang, Dong In Kim<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explores a dual perspective multi-agent systems and mixture of experts for generative AI Networking.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/abs/2405.12472">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://rickyzang.github.io/MASMoE/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=09wHgCCUTZc">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1F142127yV/?spm_id_from=333.999.list.card_archive.click&vd_source=2952d487c9e1bfa4561a47411f9dc06a">Bilibili</a>
+    </div>
+  </div>
+</div>
+
+<!-- Publication 2 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://z973230685.github.io/PLSMoE/">
+      <img src="accessories/zhaocy_moe.png" alt="Enhancing Physical Layer Communication Security">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts</b><br>
+    Changyuan Zhao, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin (Sherman) Shen, Khaled B. Letaief<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explores mixture of experts-enabled generative AI, focusing on physical layer communication security.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2405.04198v1">Paper</a>
+    </div>
+  </div>
+</div>
+
+<!-- Publication 3 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://arxiv.org/abs/2404.18077">
+      <img src="accessories/Carbon.png" alt="Generative AI for Low-Carbon Artificial Intelligence of Things">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Generative AI for Low-Carbon Artificial Intelligence of Things</b><br>
+    Jinbo Wen, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Hongyang Du, Yang Zhang, Zhu Han<br>
+    <em>Under review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper explores the potential of GAI for carbon emissions reduction and proposes a novel GAI-enabled solution for low-carbon AIoT.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2404.18077.pdf">Paper</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<!-- Publication 1 -->
+<div class="publication-container">
+  <div class="publication-image">
     <a href="https://alvinliu97.github.io/MOEGAI-metaverse/">
       <img src="accessories/MOE.png" alt="Fusion of Mixture of Experts and Generative AI">
     </a>
