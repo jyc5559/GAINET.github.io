@@ -163,7 +163,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   }
 </style>
 
-<!-- Publication Example -->
+<!-- Publication 1 -->
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://rickyzang.github.io/MASMoE/">
@@ -214,54 +214,57 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 </div>
 
 
-
-<!-- Publication 1 -->
+<!-- Publication 3 -->
 <div class="publication-container">
   <div class="publication-image">
-    <a href="https://alvinliu97.github.io/MOEGAI-metaverse/">
-      <img src="accessories/MOE.png" alt="Fusion of Mixture of Experts and Generative AI">
+    <a href="https://lancelot1998.github.io/IRL/">
+      <img src="accessories/IRL-2.png" alt="Defining Problem from Solutions: Inverse Reinforcement Learning">
     </a>
   </div>
   <div class="publication-details">
-    <b>Fusion of Mixture of Experts and Generative Artificial Intelligence in Mobile Edge Metaverse</b><br>
-    Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Shiwen Mao, Dong In Kim<br>
+    <b>Defining Problem from Solutions: Inverse Reinforcement Learning (IRL) and Its Applications for Next-Generation Networking</b><br>
+    Yinqiu Liu, Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim<br>
     <em>Under Review</em><br>
     <div class="publication-links">
       <em>
         <img src="accessories/gold_medal.png" width="15" alt=""> 
-        <b class="publication-title">The paper explores the potential of mixture of experts with generative AI, focusing on mobile edge Metaverse.</b>
+        <b class="publication-title">This paper introduces Inverse Reinforcement Learning and its applications in networking.</b>
       </em><br>
       <img src="accessories/pdf.jpg" width="12" alt=""> 
-      <a href="https://arxiv.org/abs/2404.03321">Paper</a> |
+      <a href="https://arxiv.org/pdf/2404.01583">Paper</a> |
       <img src="accessories/github_icon.jpg" width="15" alt=""> 
-      <a href="https://alvinliu97.github.io/MOEGAI-metaverse/">Code</a>
+      <a href="https://lancelot1998.github.io/IRL/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=hXTmq7OEXV8">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1Qs421c7nz/?spm_id_from=333.999.0.0&vd_source=5a4e6b423c5145e693f64416250476f9">Bilibili</a>
     </div>
   </div>
 </div>
 
-<!-- Publication 2 -->
+
+<!-- Publication 4 -->
 <div class="publication-container">
   <div class="publication-image">
-    <a href="https://zhewang77.github.io/GAIMIMO/">
-      <img src="accessories/zhe1.png" alt="Generative AI Agent for MIMO Design">
+    <a href="https://arxiv.org/abs/2404.18077">
+      <img src="accessories/Carbon.png" alt="Generative AI for Low-Carbon Artificial Intelligence of Things">
     </a>
   </div>
   <div class="publication-details">
-    <b>Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision</b><br>
-    Zhe Wang, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, Khaled B. Letaief<br>
-    <em>Under Review</em><br>
+    <b>Generative AI for Low-Carbon Artificial Intelligence of Things</b><br>
+    Jinbo Wen, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Hongyang Du, Yang Zhang, Zhu Han<br>
+    <em>Under review</em><br>
     <div class="publication-links">
       <em>
         <img src="accessories/gold_medal.png" width="15" alt=""> 
-        <b class="publication-title">This paper studies the generative AI agent for next-generation MIMO design.</b>
+        <b class="publication-title">This paper explores the potential of GAI for carbon emissions reduction and proposes a novel GAI-enabled solution for low-carbon AIoT.</b>
       </em><br>
       <img src="accessories/pdf.jpg" width="12" alt=""> 
-      <a href="https://arxiv.org/pdf/2404.08878.pdf">Paper</a> |
-      <img src="accessories/github_icon.jpg" width="15" alt=""> 
-      <a href="https://zhewang77.github.io/GAIMIMO/">Code</a>
+      <a href="https://arxiv.org/pdf/2404.18077.pdf">Paper</a>
     </div>
   </div>
 </div>
+
 
 
 # Group Members
