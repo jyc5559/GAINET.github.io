@@ -191,6 +191,29 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </div>
 </div>
 
+<!-- Publication 2 -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://z973230685.github.io/PLSMoE/">
+      <img src="accessories/zhaocy_moe.png" alt="Enhancing Physical Layer Communication Security">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts</b><br>
+    Changyuan Zhao, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin (Sherman) Shen, Khaled B. Letaief<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">The paper explores mixture of experts-enabled generative AI, focusing on physical layer communication security.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2405.04198v1">Paper</a>
+    </div>
+  </div>
+</div>
+
+
 
 <!-- Publication 1 -->
 <div class="publication-container">
@@ -240,27 +263,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
   </div>
 </div>
 
-<!-- Publication 3 -->
-<div class="publication-container">
-  <div class="publication-image">
-    <a href="https://limedire.github.io/GAI-Game/">
-      <img src="accessories/gaigame.png" alt="Generative AI for Game Theory-based Mobile Networking">
-    </a>
-  </div>
-  <div class="publication-details">
-    <b>Generative AI for Game Theory-based Mobile Networking</b><br>
-    Long He, Geng Sun, Dusit Niyato, Hongyang Du, Fang Mei, Jiawen Kang, Mérouane Debbah, Zhu Han<br>
-    <em>Under Review</em><br>
-    <div class="publication-links">
-      <em>
-        <img src="accessories/gold_medal.png" width="15" alt=""> 
-        <b class="publication-title">The paper explores the combination of LLM with game theory, focusing on mobile network optimization.</b>
-      </em><br>
-      <img src="accessories/pdf.jpg" width="12" alt=""> 
-      <a href="https://arxiv.org/abs/2404.09699">Paper</a>
-    </div>
-  </div>
-</div>
 
 # Group Members
 <style>
