@@ -34,6 +34,35 @@ Diffusion Reinforcement Learning (DRL) is an advanced approach that integrates t
   }
 </style>
 
+<!-- Publication Example -->
+<div class="publication-container">
+  <div class="publication-image">
+    <a href="https://lancelot1998.github.io/IRL/">
+      <img src="accessories/IRL-2.png" alt="Defining Problem from Solutions: Inverse Reinforcement Learning">
+    </a>
+  </div>
+  <div class="publication-details">
+    <b>Defining Problem from Solutions: Inverse Reinforcement Learning (IRL) and Its Applications for Next-Generation Networking</b><br>
+    Yinqiu Liu, Ruichen Zhang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim<br>
+    <em>Under Review</em><br>
+    <div class="publication-links">
+      <em>
+        <img src="accessories/gold_medal.png" width="15" alt=""> 
+        <b class="publication-title">This paper introduces Inverse Reinforcement Learning and its applications in networking.</b>
+      </em><br>
+      <img src="accessories/pdf.jpg" width="12" alt=""> 
+      <a href="https://arxiv.org/pdf/2404.01583">Paper</a> |
+      <img src="accessories/github_icon.jpg" width="15" alt=""> 
+      <a href="https://lancelot1998.github.io/IRL/">Code</a> |
+      <img src="accessories/ytb.jpg" width="12" alt="">
+      <a href="https://www.youtube.com/watch?v=hXTmq7OEXV8">YouTube</a> |
+      <img src="accessories/bili.jpg" width="12" alt="">
+      <a href="https://www.bilibili.com/video/BV1Qs421c7nz/?spm_id_from=333.999.0.0&vd_source=5a4e6b423c5145e693f64416250476f9">Bilibili</a>
+    </div>
+  </div>
+</div>
+
+
 <div class="publication-container">
   <div class="publication-image">
     <a href="https://hongyangdu.github.io/GDMOPT/">
