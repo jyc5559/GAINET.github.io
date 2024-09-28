@@ -314,24 +314,24 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
       <img src="./zrc.jpg" alt="Ruichen Zhang" width="100" height="100"><br>
     </td>
     <td align="center">
+       <a href="https://minruixu.github.io/"><img src="./xmr.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
+    </td>
+    <td align="center">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=KCdBiSMAAAAJ"><img src="./lyq.png" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
     <td align="center">
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=1HVj4WoAAAAJ"><img src="./lgy.jpg" alt="Name4" width="100" height="100"></a><br>
     </td>
-    <td align="center">
-     <a href="https://scholar.google.com/citations?hl=zh-CN&user=FI6q53MAAAAJ"><img src="./zcy.jpg" alt="Name5" width="100" height="100"></a><br>
-    </td>
   </tr>
   <tr>
+     <td align="center">
+     <a href="https://scholar.google.com/citations?hl=zh-CN&user=FI6q53MAAAAJ"><img src="./zcy.jpg" alt="Name5" width="100" height="100"></a><br>
+    </td>
      <td align="center">
       <img src="./cjy.jpg" alt="Name6" width="100" height="100"><br>
     </td>
     <td align="center">
        <a href="https://zhewang77.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
-    </td>
-    <td align="center">
-       <a href="https://minruixu.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
   </tr>
   <!-- 更多成员 -->
