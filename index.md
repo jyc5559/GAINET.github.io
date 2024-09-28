@@ -333,6 +333,14 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <td align="center">
        <a href="https://zhewang77.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
+      <td align="center">
+       <img src="./hxw.jpg" alt="Hou Xiangwang" width="100" height="100"></a><br>
+    </td>
+  </tr>
+   <tr>
+     <td align="center">
+    <a href="https://scholar.google.com/citations?user=du87MS0AAAAJ&hl=zh-CN"><img src="./lz.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
+    </td>
   </tr>
   <!-- 更多成员 -->
 </table>
@@ -340,5 +348,6 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
 
 
 
+ 
 
 
