@@ -299,20 +299,17 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <td align="center">
         <a href="https://personal.ntu.edu.sg/dniyato/"><img src="./dusit.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
-     <td align="center">
-      <img src="./hanwen.jpg" alt="Jiacheng Wang" width="100" height="100"><br> 
-    </td>
     <td align="center">
-      <img src="./dhy.png" alt="Hongyang Du" width="100" height="100"><br>
+       <a href="https://hongyangdu.github.io/"><img src="./dhy.png" alt="Hongyang Du" width="100" height="100"><br>
     </td>
    <td align="center">
       <img src="./wjc.jpg" alt="Jiacheng Wang" width="100" height="100"><br> 
     </td>
-  </tr>
-  <tr>
      <td align="center">
       <img src="./zrc.jpg" alt="Ruichen Zhang" width="100" height="100"><br>
     </td>
+  </tr>
+  <tr>
     <td align="center">
        <a href="https://minruixu.github.io/"><img src="./xmr.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
@@ -322,10 +319,13 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <td align="center">
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=1HVj4WoAAAAJ"><img src="./lgy.jpg" alt="Name4" width="100" height="100"></a><br>
     </td>
-  </tr>
-  <tr>
-     <td align="center">
+    <td align="center">
      <a href="https://scholar.google.com/citations?hl=zh-CN&user=FI6q53MAAAAJ"><img src="./zcy.jpg" alt="Name5" width="100" height="100"></a><br>
+    </td>
+  </tr>
+   <tr>
+     <td align="center">
+      <img src="./hanwen.jpg" alt="Jiacheng Wang" width="100" height="100"><br> 
     </td>
      <td align="center">
       <img src="./cjy.jpg" alt="Name6" width="100" height="100"><br>
