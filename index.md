@@ -334,7 +334,7 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
        <a href="https://zhewang77.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
       <td align="center">
-       <img src="./hxw.jpg" alt="Hou Xiangwang" width="100" height="100"></a><br>
+       <img src="./hxw.jpg" alt="Hou Xiangwang" width="100" height="100"><br>
     </td>
   </tr>
    <tr>
