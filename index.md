@@ -299,8 +299,8 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <td align="center">
         <a href="https://personal.ntu.edu.sg/dniyato/"><img src="./dusit.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
-    <td align="center">
-       <a href="https://hongyangdu.github.io/"><img src="./dhy.png" alt="Hongyang Du" width="100" height="100"></a><br>
+  <td align="center">
+      <img src="./dhy.png" alt="Hongyang Du" width="100" height="100"></a><br> 
     </td>
     <td align="center">
       <img src="./zrc.jpg" alt="Jiacheng Wang" width="100" height="100"><br>
