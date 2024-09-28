@@ -341,6 +341,9 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
      <td align="center">
     <a href="https://scholar.google.com/citations?user=du87MS0AAAAJ&hl=zh-CN"><img src="./lz.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
+      <td align="center">
+    <img src="./hsz.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
+    </td>
   </tr>
   <!-- 更多成员 -->
 </table>
