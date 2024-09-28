@@ -299,14 +299,14 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     <td align="center">
         <a href="https://personal.ntu.edu.sg/dniyato/"><img src="./dusit.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
-  <td align="center">
+     <td align="center">
+      <img src="./dhy.png" alt="Hongyang Du" width="100" height="100"><br>
+    </td>
+   <td align="center">
       <img src="./wjc.jpg" alt="Jiacheng Wang" width="100" height="100"><br> 
     </td>
     <td align="center">
       <img src="./zrc.jpg" alt="Ruichen Zhang" width="100" height="100"><br>
-    </td>
-    <td align="center">
-      <img src="./dhy.png" alt="Hongyang Du" width="100" height="100"><br>
     </td>
   </tr>
   <tr>
@@ -324,6 +324,9 @@ Welcome to our research on applying **generative artificial intelligence (GAI)**
     </td>
   </tr>
   <tr>
+    <td align="center">
+       <a href="https://zhewang77.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
+    </td>
     <td align="center">
        <a href="https://zhewang77.github.io/"><img src="./WZ.jpg" alt="Hongyang Du" width="100" height="100"></a><br>
     </td>
